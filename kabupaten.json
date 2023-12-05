@@ -1,0 +1,3397 @@
+[
+  {
+    "kode_prov": 11,
+    "kode_bps": "1101",
+    "nama_bps": "SIMEULUE",
+    "nama_dagri": "KAB. SIMEULUE",
+    "kode_dagri": "11.09"
+  },
+  {
+    "kode_prov": 11,
+    "kode_bps": "1102",
+    "nama_bps": "ACEH SINGKIL",
+    "nama_dagri": "KAB. ACEH SINGKIL",
+    "kode_dagri": "11.10"
+  },
+  {
+    "kode_prov": 11,
+    "kode_bps": "1103",
+    "nama_bps": "ACEH SELATAN",
+    "nama_dagri": "KAB. ACEH SELATAN",
+    "kode_dagri": "11.01"
+  },
+  {
+    "kode_prov": 11,
+    "kode_bps": "1104",
+    "nama_bps": "ACEH TENGGARA",
+    "nama_dagri": "KAB. ACEH TENGGARA",
+    "kode_dagri": "11.02"
+  },
+  {
+    "kode_prov": 11,
+    "kode_bps": "1105",
+    "nama_bps": "ACEH TIMUR",
+    "nama_dagri": "KAB. ACEH TIMUR",
+    "kode_dagri": "11.03"
+  },
+  {
+    "kode_prov": 11,
+    "kode_bps": "1106",
+    "nama_bps": "ACEH TENGAH",
+    "nama_dagri": "KAB. ACEH TENGAH",
+    "kode_dagri": "11.04"
+  },
+  {
+    "kode_prov": 11,
+    "kode_bps": "1107",
+    "nama_bps": "ACEH BARAT",
+    "nama_dagri": "KAB. ACEH BARAT",
+    "kode_dagri": "11.05"
+  },
+  {
+    "kode_prov": 11,
+    "kode_bps": "1108",
+    "nama_bps": "ACEH BESAR",
+    "nama_dagri": "KAB. ACEH BESAR",
+    "kode_dagri": "11.06"
+  },
+  {
+    "kode_prov": 11,
+    "kode_bps": "1109",
+    "nama_bps": "PIDIE",
+    "nama_dagri": "KAB. PIDIE",
+    "kode_dagri": "11.07"
+  },
+  {
+    "kode_prov": 11,
+    "kode_bps": "1110",
+    "nama_bps": "BIREUEN",
+    "nama_dagri": "KAB. BIREUEN",
+    "kode_dagri": "11.11"
+  },
+  {
+    "kode_prov": 11,
+    "kode_bps": "1111",
+    "nama_bps": "ACEH UTARA",
+    "nama_dagri": "KAB. ACEH UTARA",
+    "kode_dagri": "11.08"
+  },
+  {
+    "kode_prov": 11,
+    "kode_bps": "1112",
+    "nama_bps": "ACEH BARAT DAYA",
+    "nama_dagri": "KAB. ACEH BARAT DAYA",
+    "kode_dagri": "11.12"
+  },
+  {
+    "kode_prov": 11,
+    "kode_bps": "1113",
+    "nama_bps": "GAYO LUES",
+    "nama_dagri": "KAB. GAYO LUES",
+    "kode_dagri": "11.13"
+  },
+  {
+    "kode_prov": 11,
+    "kode_bps": "1114",
+    "nama_bps": "ACEH TAMIANG",
+    "nama_dagri": "KAB. ACEH TAMIANG",
+    "kode_dagri": "11.16"
+  },
+  {
+    "kode_prov": 11,
+    "kode_bps": "1115",
+    "nama_bps": "NAGAN RAYA",
+    "nama_dagri": "KAB. NAGAN RAYA",
+    "kode_dagri": "11.15"
+  },
+  {
+    "kode_prov": 11,
+    "kode_bps": "1116",
+    "nama_bps": "ACEH JAYA",
+    "nama_dagri": "KAB. ACEH JAYA",
+    "kode_dagri": "11.14"
+  },
+  {
+    "kode_prov": 11,
+    "kode_bps": "1117",
+    "nama_bps": "BENER MERIAH",
+    "nama_dagri": "KAB. BENER MERIAH",
+    "kode_dagri": "11.17"
+  },
+  {
+    "kode_prov": 11,
+    "kode_bps": "1118",
+    "nama_bps": "PIDIE JAYA",
+    "nama_dagri": "KAB. PIDIE JAYA",
+    "kode_dagri": "11.18"
+  },
+  {
+    "kode_prov": 11,
+    "kode_bps": "1171",
+    "nama_bps": "BANDA ACEH",
+    "nama_dagri": "KOTA BANDA ACEH",
+    "kode_dagri": "11.71"
+  },
+  {
+    "kode_prov": 11,
+    "kode_bps": "1172",
+    "nama_bps": "SABANG",
+    "nama_dagri": "KOTA SABANG",
+    "kode_dagri": "11.72"
+  },
+  {
+    "kode_prov": 11,
+    "kode_bps": "1173",
+    "nama_bps": "LANGSA",
+    "nama_dagri": "KOTA LANGSA",
+    "kode_dagri": "11.74"
+  },
+  {
+    "kode_prov": 11,
+    "kode_bps": "1174",
+    "nama_bps": "LHOKSEUMAWE",
+    "nama_dagri": "KOTA LHOKSEUMAWE",
+    "kode_dagri": "11.73"
+  },
+  {
+    "kode_prov": 11,
+    "kode_bps": "1175",
+    "nama_bps": "SUBULUSSALAM",
+    "nama_dagri": "KOTA SUBULUSSALAM",
+    "kode_dagri": "11.75"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1201",
+    "nama_bps": "NIAS",
+    "nama_dagri": "KAB. NIAS",
+    "kode_dagri": "12.04"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1202",
+    "nama_bps": "MANDAILING NATAL",
+    "nama_dagri": "KAB. MANDAILING NATAL",
+    "kode_dagri": "12.13"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1203",
+    "nama_bps": "TAPANULI SELATAN",
+    "nama_dagri": "KAB. TAPANULI SELATAN",
+    "kode_dagri": "12.03"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1204",
+    "nama_bps": "TAPANULI TENGAH",
+    "nama_dagri": "KAB. TAPANULI TENGAH",
+    "kode_dagri": "12.01"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1205",
+    "nama_bps": "TAPANULI UTARA",
+    "nama_dagri": "KAB. TAPANULI UTARA",
+    "kode_dagri": "12.02"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1206",
+    "nama_bps": "TOBA SAMOSIR",
+    "nama_dagri": "KAB. TOBA SAMOSIR",
+    "kode_dagri": "12.12"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1207",
+    "nama_bps": "LABUHAN BATU",
+    "nama_dagri": "KAB. LABUHANBATU",
+    "kode_dagri": "12.10"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1208",
+    "nama_bps": "ASAHAN",
+    "nama_dagri": "KAB. ASAHAN",
+    "kode_dagri": "12.09"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1209",
+    "nama_bps": "SIMALUNGUN",
+    "nama_dagri": "KAB. SIMALUNGUN",
+    "kode_dagri": "12.08"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1210",
+    "nama_bps": "DAIRI",
+    "nama_dagri": "KAB. DAIRI",
+    "kode_dagri": "12.11"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1211",
+    "nama_bps": "KARO",
+    "nama_dagri": "KAB. KARO",
+    "kode_dagri": "12.06"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1212",
+    "nama_bps": "DELI SERDANG",
+    "nama_dagri": "KAB. DELI SERDANG",
+    "kode_dagri": "12.07"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1213",
+    "nama_bps": "LANGKAT",
+    "nama_dagri": "KAB. LANGKAT",
+    "kode_dagri": "12.05"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1214",
+    "nama_bps": "NIAS SELATAN",
+    "nama_dagri": "KAB. NIAS SELATAN",
+    "kode_dagri": "12.14"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1215",
+    "nama_bps": "HUMBANG HASUNDUTAN",
+    "nama_dagri": "KAB. HUMBANG HASUNDUTAN",
+    "kode_dagri": "12.16"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1216",
+    "nama_bps": "PAKPAK BHARAT",
+    "nama_dagri": "KAB. PAKPAK BHARAT",
+    "kode_dagri": "12.15"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1217",
+    "nama_bps": "SAMOSIR",
+    "nama_dagri": "KAB. SAMOSIR",
+    "kode_dagri": "12.17"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1218",
+    "nama_bps": "SERDANG BEDAGAI",
+    "nama_dagri": "KAB. SERDANG BEDAGAI",
+    "kode_dagri": "12.18"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1219",
+    "nama_bps": "BATU BARA",
+    "nama_dagri": "KAB. BATU BARA",
+    "kode_dagri": "12.19"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1220",
+    "nama_bps": "PADANG LAWAS UTARA",
+    "nama_dagri": "KAB. PADANG LAWAS UTARA",
+    "kode_dagri": "12.20"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1221",
+    "nama_bps": "PADANG LAWAS",
+    "nama_dagri": "KAB. PADANG LAWAS",
+    "kode_dagri": "12.21"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1222",
+    "nama_bps": "LABUHAN BATU SELATAN",
+    "nama_dagri": "KAB. LABUHANBATU SELATAN",
+    "kode_dagri": "12.22"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1223",
+    "nama_bps": "LABUHAN BATU UTARA",
+    "nama_dagri": "KAB. LABUHANBATU UTARA",
+    "kode_dagri": "12.23"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1224",
+    "nama_bps": "NIAS UTARA",
+    "nama_dagri": "KAB. NIAS UTARA",
+    "kode_dagri": "12.24"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1225",
+    "nama_bps": "NIAS BARAT",
+    "nama_dagri": "KAB. NIAS BARAT",
+    "kode_dagri": "12.25"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1271",
+    "nama_bps": "SIBOLGA",
+    "nama_dagri": "KOTA SIBOLGA",
+    "kode_dagri": "12.73"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1272",
+    "nama_bps": "TANJUNG BALAI",
+    "nama_dagri": "KOTA TANJUNG BALAI",
+    "kode_dagri": "12.74"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1273",
+    "nama_bps": "PEMATANG SIANTAR",
+    "nama_dagri": "KOTA PEMATANGSIANTAR",
+    "kode_dagri": "12.72"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1274",
+    "nama_bps": "TEBING TINGGI",
+    "nama_dagri": "KOTA TEBING TINGGI",
+    "kode_dagri": "12.76"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1275",
+    "nama_bps": "MEDAN",
+    "nama_dagri": "KOTA MEDAN",
+    "kode_dagri": "12.71"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1276",
+    "nama_bps": "BINJAI",
+    "nama_dagri": "KOTA BINJAI",
+    "kode_dagri": "12.75"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1277",
+    "nama_bps": "PADANGSIDIMPUAN",
+    "nama_dagri": "KOTA PADANG SIDEMPUAN",
+    "kode_dagri": "12.77"
+  },
+  {
+    "kode_prov": 12,
+    "kode_bps": "1278",
+    "nama_bps": "GUNUNGSITOLI",
+    "nama_dagri": "KOTA GUNUNGSITOLI",
+    "kode_dagri": "12.78"
+  },
+  {
+    "kode_prov": 13,
+    "kode_bps": "1301",
+    "nama_bps": "KEPULAUAN MENTAWAI",
+    "nama_dagri": "KAB. KEPULAUAN MENTAWAI",
+    "kode_dagri": "13.09"
+  },
+  {
+    "kode_prov": 13,
+    "kode_bps": "1302",
+    "nama_bps": "PESISIR SELATAN",
+    "nama_dagri": "KAB. PESISIR SELATAN",
+    "kode_dagri": "13.01"
+  },
+  {
+    "kode_prov": 13,
+    "kode_bps": "1303",
+    "nama_bps": "SOLOK",
+    "nama_dagri": "KAB. SOLOK",
+    "kode_dagri": "13.02"
+  },
+  {
+    "kode_prov": 13,
+    "kode_bps": "1304",
+    "nama_bps": "SIJUNJUNG",
+    "nama_dagri": "KAB. SIJUNJUNG",
+    "kode_dagri": "13.03"
+  },
+  {
+    "kode_prov": 13,
+    "kode_bps": "1305",
+    "nama_bps": "TANAH DATAR",
+    "nama_dagri": "KAB. TANAH DATAR",
+    "kode_dagri": "13.04"
+  },
+  {
+    "kode_prov": 13,
+    "kode_bps": "1306",
+    "nama_bps": "PADANG PARIAMAN",
+    "nama_dagri": "KAB. PADANG PARIAMAN",
+    "kode_dagri": "13.05"
+  },
+  {
+    "kode_prov": 13,
+    "kode_bps": "1307",
+    "nama_bps": "AGAM",
+    "nama_dagri": "KAB. AGAM",
+    "kode_dagri": "13.06"
+  },
+  {
+    "kode_prov": 13,
+    "kode_bps": "1308",
+    "nama_bps": "LIMA PULUH KOTA",
+    "nama_dagri": "KAB. LIMA PULUH KOTA",
+    "kode_dagri": "13.07"
+  },
+  {
+    "kode_prov": 13,
+    "kode_bps": "1309",
+    "nama_bps": "PASAMAN",
+    "nama_dagri": "KAB. PASAMAN",
+    "kode_dagri": "13.08"
+  },
+  {
+    "kode_prov": 13,
+    "kode_bps": "1310",
+    "nama_bps": "SOLOK SELATAN",
+    "nama_dagri": "KAB. SOLOK SELATAN",
+    "kode_dagri": "13.11"
+  },
+  {
+    "kode_prov": 13,
+    "kode_bps": "1311",
+    "nama_bps": "DHARMASRAYA",
+    "nama_dagri": "KAB. DHARMASRAYA",
+    "kode_dagri": "13.10"
+  },
+  {
+    "kode_prov": 13,
+    "kode_bps": "1312",
+    "nama_bps": "PASAMAN BARAT",
+    "nama_dagri": "KAB. PASAMAN BARAT",
+    "kode_dagri": "13.12"
+  },
+  {
+    "kode_prov": 13,
+    "kode_bps": "1371",
+    "nama_bps": "PADANG",
+    "nama_dagri": "KOTA PADANG",
+    "kode_dagri": "13.71"
+  },
+  {
+    "kode_prov": 13,
+    "kode_bps": "1372",
+    "nama_bps": "SOLOK",
+    "nama_dagri": "KOTA SOLOK",
+    "kode_dagri": "13.72"
+  },
+  {
+    "kode_prov": 13,
+    "kode_bps": "1373",
+    "nama_bps": "SAWAH LUNTO",
+    "nama_dagri": "KOTA SAWAHLUNTO",
+    "kode_dagri": "13.73"
+  },
+  {
+    "kode_prov": 13,
+    "kode_bps": "1374",
+    "nama_bps": "PADANG PANJANG",
+    "nama_dagri": "KOTA PADANG PANJANG",
+    "kode_dagri": "13.74"
+  },
+  {
+    "kode_prov": 13,
+    "kode_bps": "1375",
+    "nama_bps": "BUKITTINGGI",
+    "nama_dagri": "KOTA BUKITTINGGI",
+    "kode_dagri": "13.75"
+  },
+  {
+    "kode_prov": 13,
+    "kode_bps": "1376",
+    "nama_bps": "PAYAKUMBUH",
+    "nama_dagri": "KOTA PAYAKUMBUH",
+    "kode_dagri": "13.76"
+  },
+  {
+    "kode_prov": 13,
+    "kode_bps": "1377",
+    "nama_bps": "PARIAMAN",
+    "nama_dagri": "KOTA PARIAMAN",
+    "kode_dagri": "13.77"
+  },
+  {
+    "kode_prov": 14,
+    "kode_bps": "1401",
+    "nama_bps": "KUANTAN SINGINGI",
+    "nama_dagri": "KAB. KUANTAN SINGINGI",
+    "kode_dagri": "14.09"
+  },
+  {
+    "kode_prov": 14,
+    "kode_bps": "1402",
+    "nama_bps": "INDRAGIRI HULU",
+    "nama_dagri": "KAB. INDRAGIRI HULU",
+    "kode_dagri": "14.02"
+  },
+  {
+    "kode_prov": 14,
+    "kode_bps": "1403",
+    "nama_bps": "INDRAGIRI HILIR",
+    "nama_dagri": "KAB. INDRAGIRI HILIR",
+    "kode_dagri": "14.04"
+  },
+  {
+    "kode_prov": 14,
+    "kode_bps": "1404",
+    "nama_bps": "PELALAWAN",
+    "nama_dagri": "KAB.  PELALAWAN",
+    "kode_dagri": "14.05"
+  },
+  {
+    "kode_prov": 14,
+    "kode_bps": "1405",
+    "nama_bps": "S I A K",
+    "nama_dagri": "KAB. SIAK",
+    "kode_dagri": "14.08"
+  },
+  {
+    "kode_prov": 14,
+    "kode_bps": "1406",
+    "nama_bps": "KAMPAR",
+    "nama_dagri": "KAB. KAMPAR",
+    "kode_dagri": "14.01"
+  },
+  {
+    "kode_prov": 14,
+    "kode_bps": "1407",
+    "nama_bps": "ROKAN HULU",
+    "nama_dagri": "KAB.  ROKAN HULU",
+    "kode_dagri": "14.06"
+  },
+  {
+    "kode_prov": 14,
+    "kode_bps": "1408",
+    "nama_bps": "BENGKALIS",
+    "nama_dagri": "KAB. BENGKALIS",
+    "kode_dagri": "14.03"
+  },
+  {
+    "kode_prov": 14,
+    "kode_bps": "1409",
+    "nama_bps": "ROKAN HILIR",
+    "nama_dagri": "KAB.  ROKAN HILIR",
+    "kode_dagri": "14.07"
+  },
+  {
+    "kode_prov": 14,
+    "kode_bps": "1410",
+    "nama_bps": "KEPULAUAN MERANTI",
+    "nama_dagri": "KAB. KEPULAUAN MERANTI",
+    "kode_dagri": "14.10"
+  },
+  {
+    "kode_prov": 14,
+    "kode_bps": "1471",
+    "nama_bps": "PEKANBARU",
+    "nama_dagri": "KOTA PEKANBARU",
+    "kode_dagri": "14.71"
+  },
+  {
+    "kode_prov": 14,
+    "kode_bps": "1473",
+    "nama_bps": "D U M A I",
+    "nama_dagri": "KOTA DUMAI",
+    "kode_dagri": "14.72"
+  },
+  {
+    "kode_prov": 15,
+    "kode_bps": "1501",
+    "nama_bps": "KERINCI",
+    "nama_dagri": "KAB.  KERINCI",
+    "kode_dagri": "15.01"
+  },
+  {
+    "kode_prov": 15,
+    "kode_bps": "1502",
+    "nama_bps": "MERANGIN",
+    "nama_dagri": "KAB.  MERANGIN",
+    "kode_dagri": "15.02"
+  },
+  {
+    "kode_prov": 15,
+    "kode_bps": "1503",
+    "nama_bps": "SAROLANGUN",
+    "nama_dagri": "KAB. SAROLANGUN",
+    "kode_dagri": "15.03"
+  },
+  {
+    "kode_prov": 15,
+    "kode_bps": "1504",
+    "nama_bps": "BATANG HARI",
+    "nama_dagri": "KAB. BATANGHARI",
+    "kode_dagri": "15.04"
+  },
+  {
+    "kode_prov": 15,
+    "kode_bps": "1505",
+    "nama_bps": "MUARO JAMBI",
+    "nama_dagri": "KAB.  MUARO JAMBI",
+    "kode_dagri": "15.05"
+  },
+  {
+    "kode_prov": 15,
+    "kode_bps": "1506",
+    "nama_bps": "TANJUNG JABUNG TIMUR",
+    "nama_dagri": "KAB. TANJUNG JABUNG TIMUR",
+    "kode_dagri": "15.07"
+  },
+  {
+    "kode_prov": 15,
+    "kode_bps": "1507",
+    "nama_bps": "TANJUNG JABUNG BARAT",
+    "nama_dagri": "KAB. TANJUNG JABUNG BARAT",
+    "kode_dagri": "15.06"
+  },
+  {
+    "kode_prov": 15,
+    "kode_bps": "1508",
+    "nama_bps": "TEBO",
+    "nama_dagri": "KAB. TEBO",
+    "kode_dagri": "15.09"
+  },
+  {
+    "kode_prov": 15,
+    "kode_bps": "1509",
+    "nama_bps": "BUNGO",
+    "nama_dagri": "KAB. BUNGO",
+    "kode_dagri": "15.08"
+  },
+  {
+    "kode_prov": 15,
+    "kode_bps": "1571",
+    "nama_bps": "JAMBI",
+    "nama_dagri": "KOTA JAMBI",
+    "kode_dagri": "15.71"
+  },
+  {
+    "kode_prov": 15,
+    "kode_bps": "1572",
+    "nama_bps": "SUNGAI PENUH",
+    "nama_dagri": "KOTA SUNGAI PENUH",
+    "kode_dagri": "15.72"
+  },
+  {
+    "kode_prov": 16,
+    "kode_bps": "1601",
+    "nama_bps": "OGAN KOMERING ULU",
+    "nama_dagri": "KAB. OGAN KOMERING ULU",
+    "kode_dagri": "16.01"
+  },
+  {
+    "kode_prov": 16,
+    "kode_bps": "1602",
+    "nama_bps": "OGAN KOMERING ILIR",
+    "nama_dagri": "KAB. OGAN KOMERING ILIR",
+    "kode_dagri": "16.02"
+  },
+  {
+    "kode_prov": 16,
+    "kode_bps": "1603",
+    "nama_bps": "MUARA ENIM",
+    "nama_dagri": "KAB. MUARA ENIM",
+    "kode_dagri": "16.03"
+  },
+  {
+    "kode_prov": 16,
+    "kode_bps": "1604",
+    "nama_bps": "LAHAT",
+    "nama_dagri": "KAB. LAHAT",
+    "kode_dagri": "16.04"
+  },
+  {
+    "kode_prov": 16,
+    "kode_bps": "1605",
+    "nama_bps": "MUSI RAWAS",
+    "nama_dagri": "KAB. MUSI RAWAS",
+    "kode_dagri": "16.05"
+  },
+  {
+    "kode_prov": 16,
+    "kode_bps": "1606",
+    "nama_bps": "MUSI BANYUASIN",
+    "nama_dagri": "KAB. MUSI BANYUASIN",
+    "kode_dagri": "16.06"
+  },
+  {
+    "kode_prov": 16,
+    "kode_bps": "1607",
+    "nama_bps": "BANYU ASIN",
+    "nama_dagri": "KAB. BANYUASIN",
+    "kode_dagri": "16.07"
+  },
+  {
+    "kode_prov": 16,
+    "kode_bps": "1608",
+    "nama_bps": "OGAN KOMERING ULU SELATAN",
+    "nama_dagri": "KAB. OGAN KOMERING ULU",
+    "kode_dagri": "16.09"
+  },
+  {
+    "kode_prov": 16,
+    "kode_bps": "1609",
+    "nama_bps": "OGAN KOMERING ULU TIMUR",
+    "nama_dagri": "KAB. OGAN KOMERING ULU",
+    "kode_dagri": "16.08"
+  },
+  {
+    "kode_prov": 16,
+    "kode_bps": "1610",
+    "nama_bps": "OGAN ILIR",
+    "nama_dagri": "KAB. OGAN ILIR",
+    "kode_dagri": "16.10"
+  },
+  {
+    "kode_prov": 16,
+    "kode_bps": "1611",
+    "nama_bps": "EMPAT LAWANG",
+    "nama_dagri": "KAB. EMPAT LAWANG",
+    "kode_dagri": "16.11"
+  },
+  {
+    "kode_prov": 16,
+    "kode_bps": "1612",
+    "nama_bps": "PENUKAL ABAB LEMATANG ILIR",
+    "nama_dagri": "KAB. PENUKAL ABAB LEMATANG",
+    "kode_dagri": "16.12"
+  },
+  {
+    "kode_prov": 16,
+    "kode_bps": "1613",
+    "nama_bps": "MUSI RAWAS UTARA",
+    "nama_dagri": "KAB. MUSI RAWAS UTARA",
+    "kode_dagri": "16.13"
+  },
+  {
+    "kode_prov": 16,
+    "kode_bps": "1671",
+    "nama_bps": "PALEMBANG",
+    "nama_dagri": "KOTA PALEMBANG",
+    "kode_dagri": "16.71"
+  },
+  {
+    "kode_prov": 16,
+    "kode_bps": "1672",
+    "nama_bps": "PRABUMULIH",
+    "nama_dagri": "KOTA PRABUMULIH",
+    "kode_dagri": "16.74"
+  },
+  {
+    "kode_prov": 16,
+    "kode_bps": "1673",
+    "nama_bps": "PAGAR ALAM",
+    "nama_dagri": "KOTA PAGAR ALAM",
+    "kode_dagri": "16.72"
+  },
+  {
+    "kode_prov": 16,
+    "kode_bps": "1674",
+    "nama_bps": "LUBUKLINGGAU",
+    "nama_dagri": "KOTA LUBUK LINGGAU",
+    "kode_dagri": "16.73"
+  },
+  {
+    "kode_prov": 17,
+    "kode_bps": "1701",
+    "nama_bps": "BENGKULU SELATAN",
+    "nama_dagri": "KAB. BENGKULU SELATAN",
+    "kode_dagri": "17.01"
+  },
+  {
+    "kode_prov": 17,
+    "kode_bps": "1702",
+    "nama_bps": "REJANG LEBONG",
+    "nama_dagri": "KAB. REJANG LEBONG",
+    "kode_dagri": "17.02"
+  },
+  {
+    "kode_prov": 17,
+    "kode_bps": "1703",
+    "nama_bps": "BENGKULU UTARA",
+    "nama_dagri": "KAB. BENGKULU UTARA",
+    "kode_dagri": "17.03"
+  },
+  {
+    "kode_prov": 17,
+    "kode_bps": "1704",
+    "nama_bps": "KAUR",
+    "nama_dagri": "KAB. KAUR",
+    "kode_dagri": "17.04"
+  },
+  {
+    "kode_prov": 17,
+    "kode_bps": "1705",
+    "nama_bps": "SELUMA",
+    "nama_dagri": "KAB. SELUMA",
+    "kode_dagri": "17.05"
+  },
+  {
+    "kode_prov": 17,
+    "kode_bps": "1706",
+    "nama_bps": "MUKOMUKO",
+    "nama_dagri": "KAB. MUKO MUKO",
+    "kode_dagri": "17.06"
+  },
+  {
+    "kode_prov": 17,
+    "kode_bps": "1707",
+    "nama_bps": "LEBONG",
+    "nama_dagri": "KAB. LEBONG",
+    "kode_dagri": "17.07"
+  },
+  {
+    "kode_prov": 17,
+    "kode_bps": "1708",
+    "nama_bps": "KEPAHIANG",
+    "nama_dagri": "KAB. KEPAHIANG",
+    "kode_dagri": "17.08"
+  },
+  {
+    "kode_prov": 17,
+    "kode_bps": "1709",
+    "nama_bps": "BENGKULU TENGAH",
+    "nama_dagri": "KAB. BENGKULU TENGAH",
+    "kode_dagri": "17.09"
+  },
+  {
+    "kode_prov": 17,
+    "kode_bps": "1771",
+    "nama_bps": "BENGKULU",
+    "nama_dagri": "KOTA BENGKULU",
+    "kode_dagri": "17.71"
+  },
+  {
+    "kode_prov": 18,
+    "kode_bps": "1801",
+    "nama_bps": "LAMPUNG BARAT",
+    "nama_dagri": "KAB. LAMPUNG BARAT",
+    "kode_dagri": "18.04"
+  },
+  {
+    "kode_prov": 18,
+    "kode_bps": "1802",
+    "nama_bps": "TANGGAMUS",
+    "nama_dagri": "KAB. TANGGAMUS",
+    "kode_dagri": "18.06"
+  },
+  {
+    "kode_prov": 18,
+    "kode_bps": "1803",
+    "nama_bps": "LAMPUNG SELATAN",
+    "nama_dagri": "KAB. LAMPUNG SELATAN",
+    "kode_dagri": "18.01"
+  },
+  {
+    "kode_prov": 18,
+    "kode_bps": "1804",
+    "nama_bps": "LAMPUNG TIMUR",
+    "nama_dagri": "KAB. LAMPUNG TIMUR",
+    "kode_dagri": "18.07"
+  },
+  {
+    "kode_prov": 18,
+    "kode_bps": "1805",
+    "nama_bps": "LAMPUNG TENGAH",
+    "nama_dagri": "KAB. LAMPUNG TENGAH",
+    "kode_dagri": "18.02"
+  },
+  {
+    "kode_prov": 18,
+    "kode_bps": "1806",
+    "nama_bps": "LAMPUNG UTARA",
+    "nama_dagri": "KAB. LAMPUNG UTARA",
+    "kode_dagri": "18.03"
+  },
+  {
+    "kode_prov": 18,
+    "kode_bps": "1807",
+    "nama_bps": "WAY KANAN",
+    "nama_dagri": "KAB. WAY KANAN",
+    "kode_dagri": "18.08"
+  },
+  {
+    "kode_prov": 18,
+    "kode_bps": "1808",
+    "nama_bps": "TULANGBAWANG",
+    "nama_dagri": "KAB. TULANG BAWANG",
+    "kode_dagri": "18.05"
+  },
+  {
+    "kode_prov": 18,
+    "kode_bps": "1809",
+    "nama_bps": "PESAWARAN",
+    "nama_dagri": "KAB. PESAWARAN",
+    "kode_dagri": "18.09"
+  },
+  {
+    "kode_prov": 18,
+    "kode_bps": "1810",
+    "nama_bps": "PRINGSEWU",
+    "nama_dagri": "KAB. PRINGSEWU",
+    "kode_dagri": "18.10"
+  },
+  {
+    "kode_prov": 18,
+    "kode_bps": "1811",
+    "nama_bps": "MESUJI",
+    "nama_dagri": "KAB. MESUJI",
+    "kode_dagri": "18.11"
+  },
+  {
+    "kode_prov": 18,
+    "kode_bps": "1812",
+    "nama_bps": "TULANG BAWANG BARAT",
+    "nama_dagri": "KAB. TULANG BAWANG BARAT",
+    "kode_dagri": "18.12"
+  },
+  {
+    "kode_prov": 18,
+    "kode_bps": "1813",
+    "nama_bps": "PESISIR BARAT",
+    "nama_dagri": "KAB. PESISIR BARAT",
+    "kode_dagri": "18.13"
+  },
+  {
+    "kode_prov": 18,
+    "kode_bps": "1871",
+    "nama_bps": "BANDAR LAMPUNG",
+    "nama_dagri": "KOTA BANDAR LAMPUNG",
+    "kode_dagri": "18.71"
+  },
+  {
+    "kode_prov": 18,
+    "kode_bps": "1872",
+    "nama_bps": "METRO",
+    "nama_dagri": "KOTA METRO",
+    "kode_dagri": "18.72"
+  },
+  {
+    "kode_prov": 19,
+    "kode_bps": "1901",
+    "nama_bps": "BANGKA",
+    "nama_dagri": "KAB. BANGKA",
+    "kode_dagri": "19.01"
+  },
+  {
+    "kode_prov": 19,
+    "kode_bps": "1902",
+    "nama_bps": "BELITUNG",
+    "nama_dagri": "KAB. BELITUNG",
+    "kode_dagri": "19.02"
+  },
+  {
+    "kode_prov": 19,
+    "kode_bps": "1903",
+    "nama_bps": "BANGKA BARAT",
+    "nama_dagri": "KAB. BANGKA BARAT",
+    "kode_dagri": "19.05"
+  },
+  {
+    "kode_prov": 19,
+    "kode_bps": "1904",
+    "nama_bps": "BANGKA TENGAH",
+    "nama_dagri": "KAB. BANGKA TENGAH",
+    "kode_dagri": "19.04"
+  },
+  {
+    "kode_prov": 19,
+    "kode_bps": "1905",
+    "nama_bps": "BANGKA SELATAN",
+    "nama_dagri": "KAB. BANGKA SELATAN",
+    "kode_dagri": "19.03"
+  },
+  {
+    "kode_prov": 19,
+    "kode_bps": "1906",
+    "nama_bps": "BELITUNG TIMUR",
+    "nama_dagri": "KAB. BELITUNG TIMUR",
+    "kode_dagri": "19.06"
+  },
+  {
+    "kode_prov": 19,
+    "kode_bps": "1971",
+    "nama_bps": "PANGKALPINANG",
+    "nama_dagri": "KOTA PANGKAL PINANG",
+    "kode_dagri": "19.71"
+  },
+  {
+    "kode_prov": 21,
+    "kode_bps": "2101",
+    "nama_bps": "KARIMUN",
+    "nama_dagri": "KAB. KARIMUN",
+    "kode_dagri": "21.02"
+  },
+  {
+    "kode_prov": 21,
+    "kode_bps": "2102",
+    "nama_bps": "BINTAN",
+    "nama_dagri": "KAB. BINTAN",
+    "kode_dagri": "21.01"
+  },
+  {
+    "kode_prov": 21,
+    "kode_bps": "2103",
+    "nama_bps": "NATUNA",
+    "nama_dagri": "KAB. NATUNA",
+    "kode_dagri": "21.03"
+  },
+  {
+    "kode_prov": 21,
+    "kode_bps": "2104",
+    "nama_bps": "LINGGA",
+    "nama_dagri": "KAB. LINGGA",
+    "kode_dagri": "21.04"
+  },
+  {
+    "kode_prov": 21,
+    "kode_bps": "2105",
+    "nama_bps": "KEPULAUAN ANAMBAS",
+    "nama_dagri": "KAB. KEPULAUAN ANAMBAS",
+    "kode_dagri": "21.05"
+  },
+  {
+    "kode_prov": 21,
+    "kode_bps": "2171",
+    "nama_bps": "B A T A M",
+    "nama_dagri": "KOTA BATAM",
+    "kode_dagri": "21.71"
+  },
+  {
+    "kode_prov": 21,
+    "kode_bps": "2172",
+    "nama_bps": "TANJUNG PINANG",
+    "nama_dagri": "KOTA TANJUNG PINANG",
+    "kode_dagri": "21.72"
+  },
+  {
+    "kode_prov": 31,
+    "kode_bps": "3101",
+    "nama_bps": "KEPULAUAN SERIBU",
+    "nama_dagri": "KAB. ADM. KEP. SERIBU",
+    "kode_dagri": "31.01"
+  },
+  {
+    "kode_prov": 31,
+    "kode_bps": "3171",
+    "nama_bps": "JAKARTA SELATAN",
+    "nama_dagri": "KOTA ADM. JAKARTA SELATAN",
+    "kode_dagri": "31.74"
+  },
+  {
+    "kode_prov": 31,
+    "kode_bps": "3172",
+    "nama_bps": "JAKARTA TIMUR",
+    "nama_dagri": "KOTA ADM. JAKARTA TIMUR",
+    "kode_dagri": "31.75"
+  },
+  {
+    "kode_prov": 31,
+    "kode_bps": "3173",
+    "nama_bps": "JAKARTA PUSAT",
+    "nama_dagri": "KOTA ADM. JAKARTA PUSAT",
+    "kode_dagri": "31.71"
+  },
+  {
+    "kode_prov": 31,
+    "kode_bps": "3174",
+    "nama_bps": "JAKARTA BARAT",
+    "nama_dagri": "KOTA ADM. JAKARTA BARAT",
+    "kode_dagri": "31.73"
+  },
+  {
+    "kode_prov": 31,
+    "kode_bps": "3175",
+    "nama_bps": "JAKARTA UTARA",
+    "nama_dagri": "KOTA ADM. JAKARTA UTARA",
+    "kode_dagri": "31.72"
+  },
+  {
+    "kode_prov": 32,
+    "kode_bps": "3201",
+    "nama_bps": "BOGOR",
+    "nama_dagri": "KAB. BOGOR",
+    "kode_dagri": "32.01"
+  },
+  {
+    "kode_prov": 32,
+    "kode_bps": "3202",
+    "nama_bps": "SUKABUMI",
+    "nama_dagri": "KAB. SUKABUMI",
+    "kode_dagri": "32.02"
+  },
+  {
+    "kode_prov": 32,
+    "kode_bps": "3203",
+    "nama_bps": "CIANJUR",
+    "nama_dagri": "KAB. CIANJUR",
+    "kode_dagri": "32.03"
+  },
+  {
+    "kode_prov": 32,
+    "kode_bps": "3204",
+    "nama_bps": "BANDUNG",
+    "nama_dagri": "KAB. BANDUNG",
+    "kode_dagri": "32.04"
+  },
+  {
+    "kode_prov": 32,
+    "kode_bps": "3205",
+    "nama_bps": "GARUT",
+    "nama_dagri": "KAB. GARUT",
+    "kode_dagri": "32.05"
+  },
+  {
+    "kode_prov": 32,
+    "kode_bps": "3206",
+    "nama_bps": "TASIKMALAYA",
+    "nama_dagri": "KAB. TASIKMALAYA",
+    "kode_dagri": "32.06"
+  },
+  {
+    "kode_prov": 32,
+    "kode_bps": "3207",
+    "nama_bps": "CIAMIS",
+    "nama_dagri": "KAB. CIAMIS",
+    "kode_dagri": "32.07"
+  },
+  {
+    "kode_prov": 32,
+    "kode_bps": "3208",
+    "nama_bps": "KUNINGAN",
+    "nama_dagri": "KAB. KUNINGAN",
+    "kode_dagri": "32.08"
+  },
+  {
+    "kode_prov": 32,
+    "kode_bps": "3209",
+    "nama_bps": "CIREBON",
+    "nama_dagri": "KAB. CIREBON",
+    "kode_dagri": "32.09"
+  },
+  {
+    "kode_prov": 32,
+    "kode_bps": "3210",
+    "nama_bps": "MAJALENGKA",
+    "nama_dagri": "KAB. MAJALENGKA",
+    "kode_dagri": "32.10"
+  },
+  {
+    "kode_prov": 32,
+    "kode_bps": "3211",
+    "nama_bps": "SUMEDANG",
+    "nama_dagri": "KAB. SUMEDANG",
+    "kode_dagri": "32.11"
+  },
+  {
+    "kode_prov": 32,
+    "kode_bps": "3212",
+    "nama_bps": "INDRAMAYU",
+    "nama_dagri": "KAB. INDRAMAYU",
+    "kode_dagri": "32.12"
+  },
+  {
+    "kode_prov": 32,
+    "kode_bps": "3213",
+    "nama_bps": "SUBANG",
+    "nama_dagri": "KAB. SUBANG",
+    "kode_dagri": "32.13"
+  },
+  {
+    "kode_prov": 32,
+    "kode_bps": "3214",
+    "nama_bps": "PURWAKARTA",
+    "nama_dagri": "KAB. PURWAKARTA",
+    "kode_dagri": "32.14"
+  },
+  {
+    "kode_prov": 32,
+    "kode_bps": "3215",
+    "nama_bps": "KARAWANG",
+    "nama_dagri": "KAB. KARAWANG",
+    "kode_dagri": "32.15"
+  },
+  {
+    "kode_prov": 32,
+    "kode_bps": "3216",
+    "nama_bps": "BEKASI",
+    "nama_dagri": "KAB. BEKASI",
+    "kode_dagri": "32.16"
+  },
+  {
+    "kode_prov": 32,
+    "kode_bps": "3217",
+    "nama_bps": "BANDUNG BARAT",
+    "nama_dagri": "KAB. BANDUNG BARAT",
+    "kode_dagri": "32.17"
+  },
+  {
+    "kode_prov": 32,
+    "kode_bps": "3218",
+    "nama_bps": "PANGANDARAN",
+    "nama_dagri": "KAB. PANGANDARAN",
+    "kode_dagri": "32.18"
+  },
+  {
+    "kode_prov": 32,
+    "kode_bps": "3271",
+    "nama_bps": "BOGOR",
+    "nama_dagri": "KOTA BOGOR",
+    "kode_dagri": "32.71"
+  },
+  {
+    "kode_prov": 32,
+    "kode_bps": "3272",
+    "nama_bps": "SUKABUMI",
+    "nama_dagri": "KOTA SUKABUMI",
+    "kode_dagri": "32.72"
+  },
+  {
+    "kode_prov": 32,
+    "kode_bps": "3273",
+    "nama_bps": "BANDUNG",
+    "nama_dagri": "KOTA BANDUNG",
+    "kode_dagri": "32.73"
+  },
+  {
+    "kode_prov": 32,
+    "kode_bps": "3274",
+    "nama_bps": "CIREBON",
+    "nama_dagri": "KOTA CIREBON",
+    "kode_dagri": "32.74"
+  },
+  {
+    "kode_prov": 32,
+    "kode_bps": "3275",
+    "nama_bps": "BEKASI",
+    "nama_dagri": "KOTA BEKASI",
+    "kode_dagri": "32.75"
+  },
+  {
+    "kode_prov": 32,
+    "kode_bps": "3276",
+    "nama_bps": "DEPOK",
+    "nama_dagri": "KOTA DEPOK",
+    "kode_dagri": "32.76"
+  },
+  {
+    "kode_prov": 32,
+    "kode_bps": "3277",
+    "nama_bps": "CIMAHI",
+    "nama_dagri": "KOTA CIMAHI",
+    "kode_dagri": "32.77"
+  },
+  {
+    "kode_prov": 32,
+    "kode_bps": "3278",
+    "nama_bps": "TASIKMALAYA",
+    "nama_dagri": "KOTA TASIKMALAYA",
+    "kode_dagri": "32.78"
+  },
+  {
+    "kode_prov": 32,
+    "kode_bps": "3279",
+    "nama_bps": "BANJAR",
+    "nama_dagri": "KOTA BANJAR",
+    "kode_dagri": "32.79"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3301",
+    "nama_bps": "CILACAP",
+    "nama_dagri": "KAB. CILACAP",
+    "kode_dagri": "33.01"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3302",
+    "nama_bps": "BANYUMAS",
+    "nama_dagri": "KAB. BANYUMAS",
+    "kode_dagri": "33.02"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3303",
+    "nama_bps": "PURBALINGGA",
+    "nama_dagri": "KAB. PURBALINGGA",
+    "kode_dagri": "33.03"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3304",
+    "nama_bps": "BANJARNEGARA",
+    "nama_dagri": "KAB. BANJARNEGARA",
+    "kode_dagri": "33.04"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3305",
+    "nama_bps": "KEBUMEN",
+    "nama_dagri": "KAB. KEBUMEN",
+    "kode_dagri": "33.05"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3306",
+    "nama_bps": "PURWOREJO",
+    "nama_dagri": "KAB. PURWOREJO",
+    "kode_dagri": "33.06"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3307",
+    "nama_bps": "WONOSOBO",
+    "nama_dagri": "KAB. WONOSOBO",
+    "kode_dagri": "33.07"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3308",
+    "nama_bps": "MAGELANG",
+    "nama_dagri": "KAB. MAGELANG",
+    "kode_dagri": "33.08"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3309",
+    "nama_bps": "BOYOLALI",
+    "nama_dagri": "KAB. BOYOLALI",
+    "kode_dagri": "33.09"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3310",
+    "nama_bps": "KLATEN",
+    "nama_dagri": "KAB. KLATEN",
+    "kode_dagri": "33.10"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3311",
+    "nama_bps": "SUKOHARJO",
+    "nama_dagri": "KAB. SUKOHARJO",
+    "kode_dagri": "33.11"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3312",
+    "nama_bps": "WONOGIRI",
+    "nama_dagri": "KAB. WONOGIRI",
+    "kode_dagri": "33.12"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3313",
+    "nama_bps": "KARANGANYAR",
+    "nama_dagri": "KAB. KARANGANYAR",
+    "kode_dagri": "33.13"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3314",
+    "nama_bps": "SRAGEN",
+    "nama_dagri": "KAB. SRAGEN",
+    "kode_dagri": "33.14"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3315",
+    "nama_bps": "GROBOGAN",
+    "nama_dagri": "KAB. GROBOGAN",
+    "kode_dagri": "33.15"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3316",
+    "nama_bps": "BLORA",
+    "nama_dagri": "KAB. BLORA",
+    "kode_dagri": "33.16"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3317",
+    "nama_bps": "REMBANG",
+    "nama_dagri": "KAB. REMBANG",
+    "kode_dagri": "33.17"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3318",
+    "nama_bps": "PATI",
+    "nama_dagri": "KAB. PATI",
+    "kode_dagri": "33.18"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3319",
+    "nama_bps": "KUDUS",
+    "nama_dagri": "KAB. KUDUS",
+    "kode_dagri": "33.19"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3320",
+    "nama_bps": "JEPARA",
+    "nama_dagri": "KAB. JEPARA",
+    "kode_dagri": "33.20"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3321",
+    "nama_bps": "DEMAK",
+    "nama_dagri": "KAB. DEMAK",
+    "kode_dagri": "33.21"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3322",
+    "nama_bps": "SEMARANG",
+    "nama_dagri": "KAB. SEMARANG",
+    "kode_dagri": "33.22"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3323",
+    "nama_bps": "TEMANGGUNG",
+    "nama_dagri": "KAB. TEMANGGUNG",
+    "kode_dagri": "33.23"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3324",
+    "nama_bps": "KENDAL",
+    "nama_dagri": "KAB. KENDAL",
+    "kode_dagri": "33.24"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3325",
+    "nama_bps": "BATANG",
+    "nama_dagri": "KAB. BATANG",
+    "kode_dagri": "33.25"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3326",
+    "nama_bps": "PEKALONGAN",
+    "nama_dagri": "KAB. PEKALONGAN",
+    "kode_dagri": "33.26"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3327",
+    "nama_bps": "PEMALANG",
+    "nama_dagri": "KAB. PEMALANG",
+    "kode_dagri": "33.27"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3328",
+    "nama_bps": "TEGAL",
+    "nama_dagri": "KAB. TEGAL",
+    "kode_dagri": "33.28"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3329",
+    "nama_bps": "BREBES",
+    "nama_dagri": "KAB. BREBES",
+    "kode_dagri": "33.29"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3371",
+    "nama_bps": "MAGELANG",
+    "nama_dagri": "KOTA MAGELANG",
+    "kode_dagri": "33.71"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3372",
+    "nama_bps": "SURAKARTA",
+    "nama_dagri": "KOTA SURAKARTA",
+    "kode_dagri": "33.72"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3373",
+    "nama_bps": "SALATIGA",
+    "nama_dagri": "KOTA SALATIGA",
+    "kode_dagri": "33.73"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3374",
+    "nama_bps": "SEMARANG",
+    "nama_dagri": "KOTA SEMARANG",
+    "kode_dagri": "33.74"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3375",
+    "nama_bps": "PEKALONGAN",
+    "nama_dagri": "KOTA PEKALONGAN",
+    "kode_dagri": "33.75"
+  },
+  {
+    "kode_prov": 33,
+    "kode_bps": "3376",
+    "nama_bps": "TEGAL",
+    "nama_dagri": "KOTA TEGAL",
+    "kode_dagri": "33.76"
+  },
+  {
+    "kode_prov": 34,
+    "kode_bps": "3401",
+    "nama_bps": "KULON PROGO",
+    "nama_dagri": "KAB. KULON PROGO",
+    "kode_dagri": "34.01"
+  },
+  {
+    "kode_prov": 34,
+    "kode_bps": "3402",
+    "nama_bps": "BANTUL",
+    "nama_dagri": "KAB. BANTUL",
+    "kode_dagri": "34.02"
+  },
+  {
+    "kode_prov": 34,
+    "kode_bps": "3403",
+    "nama_bps": "GUNUNGKIDUL",
+    "nama_dagri": "KAB. GUNUNGKIDUL",
+    "kode_dagri": "34.03"
+  },
+  {
+    "kode_prov": 34,
+    "kode_bps": "3404",
+    "nama_bps": "SLEMAN",
+    "nama_dagri": "KAB. SLEMAN",
+    "kode_dagri": "34.04"
+  },
+  {
+    "kode_prov": 34,
+    "kode_bps": "3471",
+    "nama_bps": "YOGYAKARTA",
+    "nama_dagri": "KOTA YOGYAKARTA",
+    "kode_dagri": "34.71"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3501",
+    "nama_bps": "PACITAN",
+    "nama_dagri": "KAB. PACITAN",
+    "kode_dagri": "35.01"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3502",
+    "nama_bps": "PONOROGO",
+    "nama_dagri": "KAB. PONOROGO",
+    "kode_dagri": "35.02"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3503",
+    "nama_bps": "TRENGGALEK",
+    "nama_dagri": "KAB. TRENGGALEK",
+    "kode_dagri": "35.03"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3504",
+    "nama_bps": "TULUNGAGUNG",
+    "nama_dagri": "KAB. TULUNGAGUNG",
+    "kode_dagri": "35.04"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3505",
+    "nama_bps": "BLITAR",
+    "nama_dagri": "KAB. BLITAR",
+    "kode_dagri": "35.05"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3506",
+    "nama_bps": "KEDIRI",
+    "nama_dagri": "KAB. KEDIRI",
+    "kode_dagri": "35.06"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3507",
+    "nama_bps": "MALANG",
+    "nama_dagri": "KAB. MALANG",
+    "kode_dagri": "35.07"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3508",
+    "nama_bps": "LUMAJANG",
+    "nama_dagri": "KAB. LUMAJANG",
+    "kode_dagri": "35.08"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3509",
+    "nama_bps": "JEMBER",
+    "nama_dagri": "KAB. JEMBER",
+    "kode_dagri": "35.09"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3510",
+    "nama_bps": "BANYUWANGI",
+    "nama_dagri": "KAB. BANYUWANGI",
+    "kode_dagri": "35.10"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3511",
+    "nama_bps": "BONDOWOSO",
+    "nama_dagri": "KAB. BONDOWOSO",
+    "kode_dagri": "35.11"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3512",
+    "nama_bps": "SITUBONDO",
+    "nama_dagri": "KAB. SITUBONDO",
+    "kode_dagri": "35.12"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3513",
+    "nama_bps": "PROBOLINGGO",
+    "nama_dagri": "KAB. PROBOLINGGO",
+    "kode_dagri": "35.13"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3514",
+    "nama_bps": "PASURUAN",
+    "nama_dagri": "KAB. PASURUAN",
+    "kode_dagri": "35.14"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3515",
+    "nama_bps": "SIDOARJO",
+    "nama_dagri": "KAB. SIDOARJO",
+    "kode_dagri": "35.15"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3516",
+    "nama_bps": "MOJOKERTO",
+    "nama_dagri": "KAB. MOJOKERTO",
+    "kode_dagri": "35.16"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3517",
+    "nama_bps": "JOMBANG",
+    "nama_dagri": "KAB. JOMBANG",
+    "kode_dagri": "35.17"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3518",
+    "nama_bps": "NGANJUK",
+    "nama_dagri": "KAB. NGANJUK",
+    "kode_dagri": "35.18"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3519",
+    "nama_bps": "MADIUN",
+    "nama_dagri": "KAB. MADIUN",
+    "kode_dagri": "35.19"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3520",
+    "nama_bps": "MAGETAN",
+    "nama_dagri": "KAB. MAGETAN",
+    "kode_dagri": "35.20"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3521",
+    "nama_bps": "NGAWI",
+    "nama_dagri": "KAB. NGAWI",
+    "kode_dagri": "35.21"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3522",
+    "nama_bps": "BOJONEGORO",
+    "nama_dagri": "KAB. BOJONEGORO",
+    "kode_dagri": "35.22"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3523",
+    "nama_bps": "TUBAN",
+    "nama_dagri": "KAB. TUBAN",
+    "kode_dagri": "35.23"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3524",
+    "nama_bps": "LAMONGAN",
+    "nama_dagri": "KAB. LAMONGAN",
+    "kode_dagri": "35.24"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3525",
+    "nama_bps": "GRESIK",
+    "nama_dagri": "KAB. GRESIK",
+    "kode_dagri": "35.25"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3526",
+    "nama_bps": "BANGKALAN",
+    "nama_dagri": "KAB. BANGKALAN",
+    "kode_dagri": "35.26"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3527",
+    "nama_bps": "SAMPANG",
+    "nama_dagri": "KAB. SAMPANG",
+    "kode_dagri": "35.27"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3528",
+    "nama_bps": "PAMEKASAN",
+    "nama_dagri": "KAB. PAMEKASAN",
+    "kode_dagri": "35.28"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3529",
+    "nama_bps": "SUMENEP",
+    "nama_dagri": "KAB. SUMENEP",
+    "kode_dagri": "35.29"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3571",
+    "nama_bps": "KEDIRI",
+    "nama_dagri": "KOTA KEDIRI",
+    "kode_dagri": "35.71"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3572",
+    "nama_bps": "BLITAR",
+    "nama_dagri": "KOTA BLITAR",
+    "kode_dagri": "35.72"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3573",
+    "nama_bps": "MALANG",
+    "nama_dagri": "KOTA MALANG",
+    "kode_dagri": "35.73"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3574",
+    "nama_bps": "PROBOLINGGO",
+    "nama_dagri": "KOTA PROBOLINGGO",
+    "kode_dagri": "35.74"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3575",
+    "nama_bps": "PASURUAN",
+    "nama_dagri": "KOTA PASURUAN",
+    "kode_dagri": "35.75"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3576",
+    "nama_bps": "MOJOKERTO",
+    "nama_dagri": "KOTA MOJOKERTO",
+    "kode_dagri": "35.76"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3577",
+    "nama_bps": "MADIUN",
+    "nama_dagri": "KOTA MADIUN",
+    "kode_dagri": "35.77"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3578",
+    "nama_bps": "SURABAYA",
+    "nama_dagri": "KOTA SURABAYA",
+    "kode_dagri": "35.78"
+  },
+  {
+    "kode_prov": 35,
+    "kode_bps": "3579",
+    "nama_bps": "BATU",
+    "nama_dagri": "KOTA BATU",
+    "kode_dagri": "35.79"
+  },
+  {
+    "kode_prov": 36,
+    "kode_bps": "3601",
+    "nama_bps": "PANDEGLANG",
+    "nama_dagri": "KAB. PANDEGLANG",
+    "kode_dagri": "36.01"
+  },
+  {
+    "kode_prov": 36,
+    "kode_bps": "3602",
+    "nama_bps": "LEBAK",
+    "nama_dagri": "KAB. LEBAK",
+    "kode_dagri": "36.02"
+  },
+  {
+    "kode_prov": 36,
+    "kode_bps": "3603",
+    "nama_bps": "TANGERANG",
+    "nama_dagri": "KAB. TANGERANG",
+    "kode_dagri": "36.03"
+  },
+  {
+    "kode_prov": 36,
+    "kode_bps": "3604",
+    "nama_bps": "SERANG",
+    "nama_dagri": "KAB. SERANG",
+    "kode_dagri": "36.04"
+  },
+  {
+    "kode_prov": 36,
+    "kode_bps": "3671",
+    "nama_bps": "TANGERANG",
+    "nama_dagri": "KOTA TANGERANG",
+    "kode_dagri": "36.71"
+  },
+  {
+    "kode_prov": 36,
+    "kode_bps": "3672",
+    "nama_bps": "CILEGON",
+    "nama_dagri": "KOTA CILEGON",
+    "kode_dagri": "36.72"
+  },
+  {
+    "kode_prov": 36,
+    "kode_bps": "3673",
+    "nama_bps": "SERANG",
+    "nama_dagri": "KOTA SERANG",
+    "kode_dagri": "36.73"
+  },
+  {
+    "kode_prov": 36,
+    "kode_bps": "3674",
+    "nama_bps": "TANGERANG SELATAN",
+    "nama_dagri": "KOTA TANGERANG SELATAN",
+    "kode_dagri": "36.74"
+  },
+  {
+    "kode_prov": 51,
+    "kode_bps": "5101",
+    "nama_bps": "JEMBRANA",
+    "nama_dagri": "KAB. JEMBRANA",
+    "kode_dagri": "51.01"
+  },
+  {
+    "kode_prov": 51,
+    "kode_bps": "5102",
+    "nama_bps": "TABANAN",
+    "nama_dagri": "KAB. TABANAN",
+    "kode_dagri": "51.02"
+  },
+  {
+    "kode_prov": 51,
+    "kode_bps": "5103",
+    "nama_bps": "BADUNG",
+    "nama_dagri": "KAB. BADUNG",
+    "kode_dagri": "51.03"
+  },
+  {
+    "kode_prov": 51,
+    "kode_bps": "5104",
+    "nama_bps": "GIANYAR",
+    "nama_dagri": "KAB. GIANYAR",
+    "kode_dagri": "51.04"
+  },
+  {
+    "kode_prov": 51,
+    "kode_bps": "5105",
+    "nama_bps": "KLUNGKUNG",
+    "nama_dagri": "KAB. KLUNGKUNG",
+    "kode_dagri": "51.05"
+  },
+  {
+    "kode_prov": 51,
+    "kode_bps": "5106",
+    "nama_bps": "BANGLI",
+    "nama_dagri": "KAB. BANGLI",
+    "kode_dagri": "51.06"
+  },
+  {
+    "kode_prov": 51,
+    "kode_bps": "5107",
+    "nama_bps": "KARANGASEM",
+    "nama_dagri": "KAB. KARANGASEM",
+    "kode_dagri": "51.07"
+  },
+  {
+    "kode_prov": 51,
+    "kode_bps": "5108",
+    "nama_bps": "BULELENG",
+    "nama_dagri": "KAB. BULELENG",
+    "kode_dagri": "51.08"
+  },
+  {
+    "kode_prov": 51,
+    "kode_bps": "5171",
+    "nama_bps": "DENPASAR",
+    "nama_dagri": "KOTA DENPASAR",
+    "kode_dagri": "51.71"
+  },
+  {
+    "kode_prov": 52,
+    "kode_bps": "5201",
+    "nama_bps": "LOMBOK BARAT",
+    "nama_dagri": "KAB. LOMBOK BARAT",
+    "kode_dagri": "52.01"
+  },
+  {
+    "kode_prov": 52,
+    "kode_bps": "5202",
+    "nama_bps": "LOMBOK TENGAH",
+    "nama_dagri": "KAB. LOMBOK TENGAH",
+    "kode_dagri": "52.02"
+  },
+  {
+    "kode_prov": 52,
+    "kode_bps": "5203",
+    "nama_bps": "LOMBOK TIMUR",
+    "nama_dagri": "KAB. LOMBOK TIMUR",
+    "kode_dagri": "52.03"
+  },
+  {
+    "kode_prov": 52,
+    "kode_bps": "5204",
+    "nama_bps": "SUMBAWA",
+    "nama_dagri": "KAB. SUMBAWA",
+    "kode_dagri": "52.04"
+  },
+  {
+    "kode_prov": 52,
+    "kode_bps": "5205",
+    "nama_bps": "DOMPU",
+    "nama_dagri": "KAB. DOMPU",
+    "kode_dagri": "52.05"
+  },
+  {
+    "kode_prov": 52,
+    "kode_bps": "5206",
+    "nama_bps": "BIMA",
+    "nama_dagri": "KAB. BIMA",
+    "kode_dagri": "52.06"
+  },
+  {
+    "kode_prov": 52,
+    "kode_bps": "5207",
+    "nama_bps": "SUMBAWA BARAT",
+    "nama_dagri": "KAB. SUMBAWA BARAT",
+    "kode_dagri": "52.07"
+  },
+  {
+    "kode_prov": 52,
+    "kode_bps": "5208",
+    "nama_bps": "LOMBOK UTARA",
+    "nama_dagri": "KAB. LOMBOK UTARA",
+    "kode_dagri": "52.08"
+  },
+  {
+    "kode_prov": 52,
+    "kode_bps": "5271",
+    "nama_bps": "MATARAM",
+    "nama_dagri": "KOTA MATARAM",
+    "kode_dagri": "52.71"
+  },
+  {
+    "kode_prov": 52,
+    "kode_bps": "5272",
+    "nama_bps": "BIMA",
+    "nama_dagri": "KOTA BIMA",
+    "kode_dagri": "52.72"
+  },
+  {
+    "kode_prov": 53,
+    "kode_bps": "5301",
+    "nama_bps": "SUMBA BARAT",
+    "nama_dagri": "KAB. SUMBA BARAT",
+    "kode_dagri": "53.12"
+  },
+  {
+    "kode_prov": 53,
+    "kode_bps": "5302",
+    "nama_bps": "SUMBA TIMUR",
+    "nama_dagri": "KAB. SUMBA TIMUR",
+    "kode_dagri": "53.11"
+  },
+  {
+    "kode_prov": 53,
+    "kode_bps": "5303",
+    "nama_bps": "KUPANG",
+    "nama_dagri": "KAB. KUPANG",
+    "kode_dagri": "53.01"
+  },
+  {
+    "kode_prov": 53,
+    "kode_bps": "5304",
+    "nama_bps": "TIMOR TENGAH SELATAN",
+    "nama_dagri": "KAB TIMOR TENGAH SELATAN",
+    "kode_dagri": "53.02"
+  },
+  {
+    "kode_prov": 53,
+    "kode_bps": "5305",
+    "nama_bps": "TIMOR TENGAH UTARA",
+    "nama_dagri": "KAB. TIMOR TENGAH UTARA",
+    "kode_dagri": "53.03"
+  },
+  {
+    "kode_prov": 53,
+    "kode_bps": "5306",
+    "nama_bps": "BELU",
+    "nama_dagri": "KAB. BELU",
+    "kode_dagri": "53.04"
+  },
+  {
+    "kode_prov": 53,
+    "kode_bps": "5307",
+    "nama_bps": "ALOR",
+    "nama_dagri": "KAB. ALOR",
+    "kode_dagri": "53.05"
+  },
+  {
+    "kode_prov": 53,
+    "kode_bps": "5308",
+    "nama_bps": "LEMBATA",
+    "nama_dagri": "KAB. LEMBATA",
+    "kode_dagri": "53.13"
+  },
+  {
+    "kode_prov": 53,
+    "kode_bps": "5309",
+    "nama_bps": "FLORES TIMUR",
+    "nama_dagri": "KAB. FLORES TIMUR",
+    "kode_dagri": "53.06"
+  },
+  {
+    "kode_prov": 53,
+    "kode_bps": "5310",
+    "nama_bps": "SIKKA",
+    "nama_dagri": "KAB. SIKKA",
+    "kode_dagri": "53.07"
+  },
+  {
+    "kode_prov": 53,
+    "kode_bps": "5311",
+    "nama_bps": "ENDE",
+    "nama_dagri": "KAB. ENDE",
+    "kode_dagri": "53.08"
+  },
+  {
+    "kode_prov": 53,
+    "kode_bps": "5312",
+    "nama_bps": "NGADA",
+    "nama_dagri": "KAB. NGADA",
+    "kode_dagri": "53.09"
+  },
+  {
+    "kode_prov": 53,
+    "kode_bps": "5313",
+    "nama_bps": "MANGGARAI",
+    "nama_dagri": "KAB. MANGGARAI",
+    "kode_dagri": "53.10"
+  },
+  {
+    "kode_prov": 53,
+    "kode_bps": "5314",
+    "nama_bps": "ROTE NDAO",
+    "nama_dagri": "KAB. ROTE NDAO",
+    "kode_dagri": "53.14"
+  },
+  {
+    "kode_prov": 53,
+    "kode_bps": "5315",
+    "nama_bps": "MANGGARAI BARAT",
+    "nama_dagri": "KAB. MANGGARAI BARAT",
+    "kode_dagri": "53.15"
+  },
+  {
+    "kode_prov": 53,
+    "kode_bps": "5316",
+    "nama_bps": "SUMBA TENGAH",
+    "nama_dagri": "KAB. SUMBA TENGAH",
+    "kode_dagri": "53.17"
+  },
+  {
+    "kode_prov": 53,
+    "kode_bps": "5317",
+    "nama_bps": "SUMBA BARAT DAYA",
+    "nama_dagri": "KAB. SUMBA BARAT DAYA",
+    "kode_dagri": "53.18"
+  },
+  {
+    "kode_prov": 53,
+    "kode_bps": "5318",
+    "nama_bps": "NAGEKEO",
+    "nama_dagri": "KAB. NAGEKEO",
+    "kode_dagri": "53.16"
+  },
+  {
+    "kode_prov": 53,
+    "kode_bps": "5319",
+    "nama_bps": "MANGGARAI TIMUR",
+    "nama_dagri": "KAB. MANGGARAI TIMUR",
+    "kode_dagri": "53.19"
+  },
+  {
+    "kode_prov": 53,
+    "kode_bps": "5320",
+    "nama_bps": "SABU RAIJUA",
+    "nama_dagri": "KAB. SABU RAIJUA",
+    "kode_dagri": "53.20"
+  },
+  {
+    "kode_prov": 53,
+    "kode_bps": "5321",
+    "nama_bps": "MALAKA",
+    "nama_dagri": "KAB. MALAKA",
+    "kode_dagri": "53.21"
+  },
+  {
+    "kode_prov": 53,
+    "kode_bps": "5371",
+    "nama_bps": "KUPANG",
+    "nama_dagri": "KOTA KUPANG",
+    "kode_dagri": "53.71"
+  },
+  {
+    "kode_prov": 61,
+    "kode_bps": "6101",
+    "nama_bps": "SAMBAS",
+    "nama_dagri": "KAB. SAMBAS",
+    "kode_dagri": "61.01"
+  },
+  {
+    "kode_prov": 61,
+    "kode_bps": "6102",
+    "nama_bps": "BENGKAYANG",
+    "nama_dagri": "KAB. BENGKAYANG",
+    "kode_dagri": "61.07"
+  },
+  {
+    "kode_prov": 61,
+    "kode_bps": "6103",
+    "nama_bps": "LANDAK",
+    "nama_dagri": "KAB. LANDAK",
+    "kode_dagri": "61.08"
+  },
+  {
+    "kode_prov": 61,
+    "kode_bps": "6104",
+    "nama_bps": "MEMPAWAH",
+    "nama_dagri": "KAB. MEMPAWAH",
+    "kode_dagri": "61.02"
+  },
+  {
+    "kode_prov": 61,
+    "kode_bps": "6105",
+    "nama_bps": "SANGGAU",
+    "nama_dagri": "KAB. SANGGAU",
+    "kode_dagri": "61.03"
+  },
+  {
+    "kode_prov": 61,
+    "kode_bps": "6106",
+    "nama_bps": "KETAPANG",
+    "nama_dagri": "KAB. KETAPANG",
+    "kode_dagri": "61.04"
+  },
+  {
+    "kode_prov": 61,
+    "kode_bps": "6107",
+    "nama_bps": "SINTANG",
+    "nama_dagri": "KAB. SINTANG",
+    "kode_dagri": "61.05"
+  },
+  {
+    "kode_prov": 61,
+    "kode_bps": "6108",
+    "nama_bps": "KAPUAS HULU",
+    "nama_dagri": "KAB. KAPUAS HULU",
+    "kode_dagri": "61.06"
+  },
+  {
+    "kode_prov": 61,
+    "kode_bps": "6109",
+    "nama_bps": "SEKADAU",
+    "nama_dagri": "KAB. SEKADAU",
+    "kode_dagri": "61.09"
+  },
+  {
+    "kode_prov": 61,
+    "kode_bps": "6110",
+    "nama_bps": "MELAWI",
+    "nama_dagri": "KAB. MELAWI",
+    "kode_dagri": "61.10"
+  },
+  {
+    "kode_prov": 61,
+    "kode_bps": "6111",
+    "nama_bps": "KAYONG UTARA",
+    "nama_dagri": "KAB. KAYONG UTARA",
+    "kode_dagri": "61.11"
+  },
+  {
+    "kode_prov": 61,
+    "kode_bps": "6112",
+    "nama_bps": "KUBU RAYA",
+    "nama_dagri": "KAB. KUBU RAYA",
+    "kode_dagri": "61.12"
+  },
+  {
+    "kode_prov": 61,
+    "kode_bps": "6171",
+    "nama_bps": "PONTIANAK",
+    "nama_dagri": "KOTA PONTIANAK",
+    "kode_dagri": "61.71"
+  },
+  {
+    "kode_prov": 61,
+    "kode_bps": "6172",
+    "nama_bps": "SINGKAWANG",
+    "nama_dagri": "KOTA SINGKAWANG",
+    "kode_dagri": "61.72"
+  },
+  {
+    "kode_prov": 62,
+    "kode_bps": "6201",
+    "nama_bps": "KOTAWARINGIN BARAT",
+    "nama_dagri": "KAB. KOTAWARINGIN BARAT",
+    "kode_dagri": "62.01"
+  },
+  {
+    "kode_prov": 62,
+    "kode_bps": "6202",
+    "nama_bps": "KOTAWARINGIN TIMUR",
+    "nama_dagri": "KAB. KOTAWARINGIN TIMUR",
+    "kode_dagri": "62.02"
+  },
+  {
+    "kode_prov": 62,
+    "kode_bps": "6203",
+    "nama_bps": "KAPUAS",
+    "nama_dagri": "KAB. KAPUAS",
+    "kode_dagri": "62.03"
+  },
+  {
+    "kode_prov": 62,
+    "kode_bps": "6204",
+    "nama_bps": "BARITO SELATAN",
+    "nama_dagri": "KAB. BARITO SELATAN",
+    "kode_dagri": "62.04"
+  },
+  {
+    "kode_prov": 62,
+    "kode_bps": "6205",
+    "nama_bps": "BARITO UTARA",
+    "nama_dagri": "KAB. BARITO UTARA",
+    "kode_dagri": "62.05"
+  },
+  {
+    "kode_prov": 62,
+    "kode_bps": "6206",
+    "nama_bps": "SUKAMARA",
+    "nama_dagri": "KAB. SUKAMARA",
+    "kode_dagri": "62.08"
+  },
+  {
+    "kode_prov": 62,
+    "kode_bps": "6207",
+    "nama_bps": "LAMANDAU",
+    "nama_dagri": "KAB. LAMANDAU",
+    "kode_dagri": "62.09"
+  },
+  {
+    "kode_prov": 62,
+    "kode_bps": "6208",
+    "nama_bps": "SERUYAN",
+    "nama_dagri": "KAB. SERUYAN",
+    "kode_dagri": "62.07"
+  },
+  {
+    "kode_prov": 62,
+    "kode_bps": "6209",
+    "nama_bps": "KATINGAN",
+    "nama_dagri": "KAB. KATINGAN",
+    "kode_dagri": "62.06"
+  },
+  {
+    "kode_prov": 62,
+    "kode_bps": "6210",
+    "nama_bps": "PULANG PISAU",
+    "nama_dagri": "KAB. PULANG PISAU",
+    "kode_dagri": "62.11"
+  },
+  {
+    "kode_prov": 62,
+    "kode_bps": "6211",
+    "nama_bps": "GUNUNG MAS",
+    "nama_dagri": "KAB. GUNUNG MAS",
+    "kode_dagri": "62.10"
+  },
+  {
+    "kode_prov": 62,
+    "kode_bps": "6212",
+    "nama_bps": "BARITO TIMUR",
+    "nama_dagri": "KAB. BARITO TIMUR",
+    "kode_dagri": "62.13"
+  },
+  {
+    "kode_prov": 62,
+    "kode_bps": "6213",
+    "nama_bps": "MURUNG RAYA",
+    "nama_dagri": "KAB. MURUNG RAYA",
+    "kode_dagri": "62.12"
+  },
+  {
+    "kode_prov": 62,
+    "kode_bps": "6271",
+    "nama_bps": "PALANGKA RAYA",
+    "nama_dagri": "KOTA PALANGKARAYA",
+    "kode_dagri": "62.71"
+  },
+  {
+    "kode_prov": 63,
+    "kode_bps": "6301",
+    "nama_bps": "TANAH LAUT",
+    "nama_dagri": "KAB. TANAH LAUT",
+    "kode_dagri": "63.01"
+  },
+  {
+    "kode_prov": 63,
+    "kode_bps": "6302",
+    "nama_bps": "KOTABARU",
+    "nama_dagri": "KAB. KOTABARU",
+    "kode_dagri": "63.02"
+  },
+  {
+    "kode_prov": 63,
+    "kode_bps": "6303",
+    "nama_bps": "BANJAR",
+    "nama_dagri": "KAB. BANJAR",
+    "kode_dagri": "63.03"
+  },
+  {
+    "kode_prov": 63,
+    "kode_bps": "6304",
+    "nama_bps": "BARITO KUALA",
+    "nama_dagri": "KAB. BARITO KUALA",
+    "kode_dagri": "63.04"
+  },
+  {
+    "kode_prov": 63,
+    "kode_bps": "6305",
+    "nama_bps": "TAPIN",
+    "nama_dagri": "KAB. TAPIN",
+    "kode_dagri": "63.05"
+  },
+  {
+    "kode_prov": 63,
+    "kode_bps": "6306",
+    "nama_bps": "HULU SUNGAI SELATAN",
+    "nama_dagri": "KAB. HULU SUNGAI SELATAN",
+    "kode_dagri": "63.06"
+  },
+  {
+    "kode_prov": 63,
+    "kode_bps": "6307",
+    "nama_bps": "HULU SUNGAI TENGAH",
+    "nama_dagri": "KAB. HULU SUNGAI TENGAH",
+    "kode_dagri": "63.07"
+  },
+  {
+    "kode_prov": 63,
+    "kode_bps": "6308",
+    "nama_bps": "HULU SUNGAI UTARA",
+    "nama_dagri": "KAB. HULU SUNGAI UTARA",
+    "kode_dagri": "63.08"
+  },
+  {
+    "kode_prov": 63,
+    "kode_bps": "6309",
+    "nama_bps": "TABALONG",
+    "nama_dagri": "KAB. TABALONG",
+    "kode_dagri": "63.09"
+  },
+  {
+    "kode_prov": 63,
+    "kode_bps": "6310",
+    "nama_bps": "TANAH BUMBU",
+    "nama_dagri": "KAB. TANAH BUMBU",
+    "kode_dagri": "63.10"
+  },
+  {
+    "kode_prov": 63,
+    "kode_bps": "6311",
+    "nama_bps": "BALANGAN",
+    "nama_dagri": "KAB. BALANGAN",
+    "kode_dagri": "63.11"
+  },
+  {
+    "kode_prov": 63,
+    "kode_bps": "6371",
+    "nama_bps": "BANJARMASIN",
+    "nama_dagri": "KOTA BANJARMASIN",
+    "kode_dagri": "63.71"
+  },
+  {
+    "kode_prov": 63,
+    "kode_bps": "6372",
+    "nama_bps": "BANJAR BARU",
+    "nama_dagri": "KOTA BANJARBARU",
+    "kode_dagri": "63.72"
+  },
+  {
+    "kode_prov": 64,
+    "kode_bps": "6401",
+    "nama_bps": "PASER",
+    "nama_dagri": "KAB. PASER",
+    "kode_dagri": "64.01"
+  },
+  {
+    "kode_prov": 64,
+    "kode_bps": "6402",
+    "nama_bps": "KUTAI BARAT",
+    "nama_dagri": "KAB. KUTAI BARAT",
+    "kode_dagri": "64.07"
+  },
+  {
+    "kode_prov": 64,
+    "kode_bps": "6403",
+    "nama_bps": "KUTAI KARTANEGARA",
+    "nama_dagri": "KAB. KUTAI KARTANEGARA",
+    "kode_dagri": "64.02"
+  },
+  {
+    "kode_prov": 64,
+    "kode_bps": "6404",
+    "nama_bps": "KUTAI TIMUR",
+    "nama_dagri": "KAB. KUTAI TIMUR",
+    "kode_dagri": "64.08"
+  },
+  {
+    "kode_prov": 64,
+    "kode_bps": "6405",
+    "nama_bps": "BERAU",
+    "nama_dagri": "KAB. BERAU",
+    "kode_dagri": "64.03"
+  },
+  {
+    "kode_prov": 64,
+    "kode_bps": "6409",
+    "nama_bps": "PENAJAM PASER UTARA",
+    "nama_dagri": "KAB. PENAJAM PASER UTARA",
+    "kode_dagri": "64.09"
+  },
+  {
+    "kode_prov": 64,
+    "kode_bps": "6411",
+    "nama_bps": "MAHAKAM HULU",
+    "nama_dagri": "KAB. MAHAKAM ULU",
+    "kode_dagri": "64.11"
+  },
+  {
+    "kode_prov": 64,
+    "kode_bps": "6471",
+    "nama_bps": "BALIKPAPAN",
+    "nama_dagri": "KOTA BALIKPAPAN",
+    "kode_dagri": "64.71"
+  },
+  {
+    "kode_prov": 64,
+    "kode_bps": "6472",
+    "nama_bps": "SAMARINDA",
+    "nama_dagri": "KOTA SAMARINDA",
+    "kode_dagri": "64.72"
+  },
+  {
+    "kode_prov": 64,
+    "kode_bps": "6474",
+    "nama_bps": "BONTANG",
+    "nama_dagri": "KOTA BONTANG",
+    "kode_dagri": "64.74"
+  },
+  {
+    "kode_prov": 65,
+    "kode_bps": "6501",
+    "nama_bps": "MALINAU",
+    "nama_dagri": "KAB. MALINAU",
+    "kode_dagri": "65.02"
+  },
+  {
+    "kode_prov": 65,
+    "kode_bps": "6502",
+    "nama_bps": "BULUNGAN",
+    "nama_dagri": "KAB. BULUNGAN",
+    "kode_dagri": "65.01"
+  },
+  {
+    "kode_prov": 65,
+    "kode_bps": "6503",
+    "nama_bps": "TANA TIDUNG",
+    "nama_dagri": "KAB. TANA TIDUNG",
+    "kode_dagri": "65.04"
+  },
+  {
+    "kode_prov": 65,
+    "kode_bps": "6504",
+    "nama_bps": "NUNUKAN",
+    "nama_dagri": "KAB. NUNUKAN",
+    "kode_dagri": "65.03"
+  },
+  {
+    "kode_prov": 65,
+    "kode_bps": "6571",
+    "nama_bps": "TARAKAN",
+    "nama_dagri": "KOTA TARAKAN",
+    "kode_dagri": "65.71"
+  },
+  {
+    "kode_prov": 71,
+    "kode_bps": "7101",
+    "nama_bps": "BOLAANG MONGONDOW",
+    "nama_dagri": "KAB. BOLAANG MONGONDOW",
+    "kode_dagri": "71.01"
+  },
+  {
+    "kode_prov": 71,
+    "kode_bps": "7102",
+    "nama_bps": "MINAHASA",
+    "nama_dagri": "KAB. MINAHASA",
+    "kode_dagri": "71.02"
+  },
+  {
+    "kode_prov": 71,
+    "kode_bps": "7103",
+    "nama_bps": "KEPULAUAN SANGIHE",
+    "nama_dagri": "KAB. KEPULAUAN SANGIHE",
+    "kode_dagri": "71.03"
+  },
+  {
+    "kode_prov": 71,
+    "kode_bps": "7104",
+    "nama_bps": "KEPULAUAN TALAUD",
+    "nama_dagri": "KAB. KEPULAUAN TALAUD",
+    "kode_dagri": "71.04"
+  },
+  {
+    "kode_prov": 71,
+    "kode_bps": "7105",
+    "nama_bps": "MINAHASA SELATAN",
+    "nama_dagri": "KAB. MINAHASA SELATAN",
+    "kode_dagri": "71.05"
+  },
+  {
+    "kode_prov": 71,
+    "kode_bps": "7106",
+    "nama_bps": "MINAHASA UTARA",
+    "nama_dagri": "KAB. MINAHASA UTARA",
+    "kode_dagri": "71.06"
+  },
+  {
+    "kode_prov": 71,
+    "kode_bps": "7107",
+    "nama_bps": "BOLAANG MONGONDOW UTARA",
+    "nama_dagri": "KAB. BOLAANG MONGONDOW",
+    "kode_dagri": "71.08"
+  },
+  {
+    "kode_prov": 71,
+    "kode_bps": "7108",
+    "nama_bps": "SIAU TAGULANDANG BIARO",
+    "nama_dagri": "KAB. KEP. SIAU TAGULANDANG",
+    "kode_dagri": "71.09"
+  },
+  {
+    "kode_prov": 71,
+    "kode_bps": "7109",
+    "nama_bps": "MINAHASA TENGGARA",
+    "nama_dagri": "KAB. MINAHASA TENGGARA",
+    "kode_dagri": "71.07"
+  },
+  {
+    "kode_prov": 71,
+    "kode_bps": "7110",
+    "nama_bps": "BOLAANG MONGONDOW SELATAN",
+    "nama_dagri": "KAB. BOLAANG MONGONDOW",
+    "kode_dagri": "71.11"
+  },
+  {
+    "kode_prov": 71,
+    "kode_bps": "7111",
+    "nama_bps": "BOLAANG MONGONDOW TIMUR",
+    "nama_dagri": "KAB. BOLAANG MONGONDOW",
+    "kode_dagri": "71.10"
+  },
+  {
+    "kode_prov": 71,
+    "kode_bps": "7171",
+    "nama_bps": "MANADO",
+    "nama_dagri": "KOTA MANADO",
+    "kode_dagri": "71.71"
+  },
+  {
+    "kode_prov": 71,
+    "kode_bps": "7172",
+    "nama_bps": "BITUNG",
+    "nama_dagri": "KOTA BITUNG",
+    "kode_dagri": "71.72"
+  },
+  {
+    "kode_prov": 71,
+    "kode_bps": "7173",
+    "nama_bps": "TOMOHON",
+    "nama_dagri": "KOTA TOMOHON",
+    "kode_dagri": "71.73"
+  },
+  {
+    "kode_prov": 71,
+    "kode_bps": "7174",
+    "nama_bps": "KOTAMOBAGU",
+    "nama_dagri": "KOTA KOTAMOBAGU",
+    "kode_dagri": "71.74"
+  },
+  {
+    "kode_prov": 72,
+    "kode_bps": "7201",
+    "nama_bps": "BANGGAI KEPULAUAN",
+    "nama_dagri": "KAB. BANGGAI KEPULAUAN",
+    "kode_dagri": "72.07"
+  },
+  {
+    "kode_prov": 72,
+    "kode_bps": "7202",
+    "nama_bps": "BANGGAI",
+    "nama_dagri": "KAB. BANGGAI",
+    "kode_dagri": "72.01"
+  },
+  {
+    "kode_prov": 72,
+    "kode_bps": "7203",
+    "nama_bps": "MOROWALI",
+    "nama_dagri": "KAB. MOROWALI",
+    "kode_dagri": "72.06"
+  },
+  {
+    "kode_prov": 72,
+    "kode_bps": "7204",
+    "nama_bps": "POSO",
+    "nama_dagri": "KAB. POSO",
+    "kode_dagri": "72.02"
+  },
+  {
+    "kode_prov": 72,
+    "kode_bps": "7205",
+    "nama_bps": "DONGGALA",
+    "nama_dagri": "KAB. DONGGALA",
+    "kode_dagri": "72.03"
+  },
+  {
+    "kode_prov": 72,
+    "kode_bps": "7206",
+    "nama_bps": "TOLI-TOLI",
+    "nama_dagri": "KAB. TOLI TOLI",
+    "kode_dagri": "72.04"
+  },
+  {
+    "kode_prov": 72,
+    "kode_bps": "7207",
+    "nama_bps": "BUOL",
+    "nama_dagri": "KAB. BUOL",
+    "kode_dagri": "72.05"
+  },
+  {
+    "kode_prov": 72,
+    "kode_bps": "7208",
+    "nama_bps": "PARIGI MOUTONG",
+    "nama_dagri": "KAB. PARIGI MOUTONG",
+    "kode_dagri": "72.08"
+  },
+  {
+    "kode_prov": 72,
+    "kode_bps": "7209",
+    "nama_bps": "TOJO UNA-UNA",
+    "nama_dagri": "KAB. TOJO UNA UNA",
+    "kode_dagri": "72.09"
+  },
+  {
+    "kode_prov": 72,
+    "kode_bps": "7210",
+    "nama_bps": "SIGI",
+    "nama_dagri": "KAB. SIGI",
+    "kode_dagri": "72.10"
+  },
+  {
+    "kode_prov": 72,
+    "kode_bps": "7211",
+    "nama_bps": "BANGGAI LAUT",
+    "nama_dagri": "KAB. BANGGAI LAUT",
+    "kode_dagri": "72.11"
+  },
+  {
+    "kode_prov": 72,
+    "kode_bps": "7212",
+    "nama_bps": "MOROWALI UTARA",
+    "nama_dagri": "KAB. MOROWALI UTARA",
+    "kode_dagri": "72.12"
+  },
+  {
+    "kode_prov": 72,
+    "kode_bps": "7271",
+    "nama_bps": "PALU",
+    "nama_dagri": "KOTA PALU",
+    "kode_dagri": "72.71"
+  },
+  {
+    "kode_prov": 73,
+    "kode_bps": "7301",
+    "nama_bps": "KEPULAUAN SELAYAR",
+    "nama_dagri": "KAB. KEPULAUAN SELAYAR",
+    "kode_dagri": "73.01"
+  },
+  {
+    "kode_prov": 73,
+    "kode_bps": "7302",
+    "nama_bps": "BULUKUMBA",
+    "nama_dagri": "KAB. BULUKUMBA",
+    "kode_dagri": "73.02"
+  },
+  {
+    "kode_prov": 73,
+    "kode_bps": "7303",
+    "nama_bps": "BANTAENG",
+    "nama_dagri": "KAB. BANTAENG",
+    "kode_dagri": "73.03"
+  },
+  {
+    "kode_prov": 73,
+    "kode_bps": "7304",
+    "nama_bps": "JENEPONTO",
+    "nama_dagri": "KAB. JENEPONTO",
+    "kode_dagri": "73.04"
+  },
+  {
+    "kode_prov": 73,
+    "kode_bps": "7305",
+    "nama_bps": "TAKALAR",
+    "nama_dagri": "KAB. TAKALAR",
+    "kode_dagri": "73.05"
+  },
+  {
+    "kode_prov": 73,
+    "kode_bps": "7306",
+    "nama_bps": "GOWA",
+    "nama_dagri": "KAB. GOWA",
+    "kode_dagri": "73.06"
+  },
+  {
+    "kode_prov": 73,
+    "kode_bps": "7307",
+    "nama_bps": "SINJAI",
+    "nama_dagri": "KAB. SINJAI",
+    "kode_dagri": "73.07"
+  },
+  {
+    "kode_prov": 73,
+    "kode_bps": "7308",
+    "nama_bps": "MAROS",
+    "nama_dagri": "KAB. MAROS",
+    "kode_dagri": "73.09"
+  },
+  {
+    "kode_prov": 73,
+    "kode_bps": "7309",
+    "nama_bps": "PANGKAJENE DAN KEPULAUAN",
+    "nama_dagri": "KAB. PANGKAJENE KEPULAUAN",
+    "kode_dagri": "73.10"
+  },
+  {
+    "kode_prov": 73,
+    "kode_bps": "7310",
+    "nama_bps": "BARRU",
+    "nama_dagri": "KAB. BARRU",
+    "kode_dagri": "73.11"
+  },
+  {
+    "kode_prov": 73,
+    "kode_bps": "7311",
+    "nama_bps": "BONE",
+    "nama_dagri": "KAB. BONE",
+    "kode_dagri": "73.08"
+  },
+  {
+    "kode_prov": 73,
+    "kode_bps": "7312",
+    "nama_bps": "SOPPENG",
+    "nama_dagri": "KAB. SOPPENG",
+    "kode_dagri": "73.12"
+  },
+  {
+    "kode_prov": 73,
+    "kode_bps": "7313",
+    "nama_bps": "WAJO",
+    "nama_dagri": "KAB. WAJO",
+    "kode_dagri": "73.13"
+  },
+  {
+    "kode_prov": 73,
+    "kode_bps": "7314",
+    "nama_bps": "SIDENRENG RAPPANG",
+    "nama_dagri": "KAB. SIDENRENG RAPPANG",
+    "kode_dagri": "73.14"
+  },
+  {
+    "kode_prov": 73,
+    "kode_bps": "7315",
+    "nama_bps": "PINRANG",
+    "nama_dagri": "KAB. PINRANG",
+    "kode_dagri": "73.15"
+  },
+  {
+    "kode_prov": 73,
+    "kode_bps": "7316",
+    "nama_bps": "ENREKANG",
+    "nama_dagri": "KAB. ENREKANG",
+    "kode_dagri": "73.16"
+  },
+  {
+    "kode_prov": 73,
+    "kode_bps": "7317",
+    "nama_bps": "LUWU",
+    "nama_dagri": "KAB. LUWU",
+    "kode_dagri": "73.17"
+  },
+  {
+    "kode_prov": 73,
+    "kode_bps": "7318",
+    "nama_bps": "TANA TORAJA",
+    "nama_dagri": "KAB. TANA TORAJA",
+    "kode_dagri": "73.18"
+  },
+  {
+    "kode_prov": 73,
+    "kode_bps": "7322",
+    "nama_bps": "LUWU UTARA",
+    "nama_dagri": "KAB. LUWU UTARA",
+    "kode_dagri": "73.22"
+  },
+  {
+    "kode_prov": 73,
+    "kode_bps": "7325",
+    "nama_bps": "LUWU TIMUR",
+    "nama_dagri": "KAB. LUWU TIMUR",
+    "kode_dagri": "73.24"
+  },
+  {
+    "kode_prov": 73,
+    "kode_bps": "7326",
+    "nama_bps": "TORAJA UTARA",
+    "nama_dagri": "KAB. TORAJA UTARA",
+    "kode_dagri": "73.26"
+  },
+  {
+    "kode_prov": 73,
+    "kode_bps": "7371",
+    "nama_bps": "MAKASSAR",
+    "nama_dagri": "KOTA MAKASSAR",
+    "kode_dagri": "73.71"
+  },
+  {
+    "kode_prov": 73,
+    "kode_bps": "7372",
+    "nama_bps": "PAREPARE",
+    "nama_dagri": "KOTA PARE PARE",
+    "kode_dagri": "73.72"
+  },
+  {
+    "kode_prov": 73,
+    "kode_bps": "7373",
+    "nama_bps": "PALOPO",
+    "nama_dagri": "KOTA PALOPO",
+    "kode_dagri": "73.73"
+  },
+  {
+    "kode_prov": 74,
+    "kode_bps": "7401",
+    "nama_bps": "BUTON",
+    "nama_dagri": "KAB. BUTON",
+    "kode_dagri": "74.04"
+  },
+  {
+    "kode_prov": 74,
+    "kode_bps": "7402",
+    "nama_bps": "MUNA",
+    "nama_dagri": "KAB. MUNA",
+    "kode_dagri": "74.03"
+  },
+  {
+    "kode_prov": 74,
+    "kode_bps": "7403",
+    "nama_bps": "KONAWE",
+    "nama_dagri": "KAB. KONAWE",
+    "kode_dagri": "74.02"
+  },
+  {
+    "kode_prov": 74,
+    "kode_bps": "7404",
+    "nama_bps": "KOLAKA",
+    "nama_dagri": "KAB. KOLAKA",
+    "kode_dagri": "74.01"
+  },
+  {
+    "kode_prov": 74,
+    "kode_bps": "7405",
+    "nama_bps": "KONAWE SELATAN",
+    "nama_dagri": "KAB. KONAWE SELATAN",
+    "kode_dagri": "74.05"
+  },
+  {
+    "kode_prov": 74,
+    "kode_bps": "7406",
+    "nama_bps": "BOMBANA",
+    "nama_dagri": "KAB. BOMBANA",
+    "kode_dagri": "74.06"
+  },
+  {
+    "kode_prov": 74,
+    "kode_bps": "7407",
+    "nama_bps": "WAKATOBI",
+    "nama_dagri": "KAB. WAKATOBI",
+    "kode_dagri": "74.07"
+  },
+  {
+    "kode_prov": 74,
+    "kode_bps": "7408",
+    "nama_bps": "KOLAKA UTARA",
+    "nama_dagri": "KAB. KOLAKA UTARA",
+    "kode_dagri": "74.08"
+  },
+  {
+    "kode_prov": 74,
+    "kode_bps": "7409",
+    "nama_bps": "BUTON UTARA",
+    "nama_dagri": "KAB. BUTON UTARA",
+    "kode_dagri": "74.10"
+  },
+  {
+    "kode_prov": 74,
+    "kode_bps": "7410",
+    "nama_bps": "KONAWE UTARA",
+    "nama_dagri": "KAB. KONAWE UTARA",
+    "kode_dagri": "74.09"
+  },
+  {
+    "kode_prov": 74,
+    "kode_bps": "7411",
+    "nama_bps": "KOLAKA TIMUR",
+    "nama_dagri": "KAB. KOLAKA TIMUR",
+    "kode_dagri": "74.11"
+  },
+  {
+    "kode_prov": 74,
+    "kode_bps": "7412",
+    "nama_bps": "KONAWE KEPULAUAN",
+    "nama_dagri": "KAB. KONAWE KEPULAUAN",
+    "kode_dagri": "74.12"
+  },
+  {
+    "kode_prov": 74,
+    "kode_bps": "7413",
+    "nama_bps": "MUNA BARAT",
+    "nama_dagri": "KAB. MUNA BARAT",
+    "kode_dagri": "74.13"
+  },
+  {
+    "kode_prov": 74,
+    "kode_bps": "7414",
+    "nama_bps": "BUTON TENGAH",
+    "nama_dagri": "KAB. BUTON TENGAH",
+    "kode_dagri": "74.14"
+  },
+  {
+    "kode_prov": 74,
+    "kode_bps": "7415",
+    "nama_bps": "BUTON SELATAN",
+    "nama_dagri": "KAB. BUTON SELATAN",
+    "kode_dagri": "74.15"
+  },
+  {
+    "kode_prov": 74,
+    "kode_bps": "7471",
+    "nama_bps": "KENDARI",
+    "nama_dagri": "KOTA KENDARI",
+    "kode_dagri": "74.71"
+  },
+  {
+    "kode_prov": 74,
+    "kode_bps": "7472",
+    "nama_bps": "BAUBAU",
+    "nama_dagri": "KOTA BAU BAU",
+    "kode_dagri": "74.72"
+  },
+  {
+    "kode_prov": 75,
+    "kode_bps": "7501",
+    "nama_bps": "BOALEMO",
+    "nama_dagri": "KAB. BOALEMO",
+    "kode_dagri": "75.02"
+  },
+  {
+    "kode_prov": 75,
+    "kode_bps": "7502",
+    "nama_bps": "GORONTALO",
+    "nama_dagri": "KAB. GORONTALO",
+    "kode_dagri": "75.01"
+  },
+  {
+    "kode_prov": 75,
+    "kode_bps": "7503",
+    "nama_bps": "POHUWATO",
+    "nama_dagri": "KAB. PAHUWATO",
+    "kode_dagri": "75.04"
+  },
+  {
+    "kode_prov": 75,
+    "kode_bps": "7504",
+    "nama_bps": "BONE BOLANGO",
+    "nama_dagri": "KAB. BONE BOLANGO",
+    "kode_dagri": "75.03"
+  },
+  {
+    "kode_prov": 75,
+    "kode_bps": "7505",
+    "nama_bps": "GORONTALO UTARA",
+    "nama_dagri": "KAB. GORONTALO UTARA",
+    "kode_dagri": "75.05"
+  },
+  {
+    "kode_prov": 75,
+    "kode_bps": "7571",
+    "nama_bps": "GORONTALO",
+    "nama_dagri": "KOTA GORONTALO",
+    "kode_dagri": "75.71"
+  },
+  {
+    "kode_prov": 76,
+    "kode_bps": "7601",
+    "nama_bps": "MAJENE",
+    "nama_dagri": "KAB. MAJENE",
+    "kode_dagri": "76.05"
+  },
+  {
+    "kode_prov": 76,
+    "kode_bps": "7602",
+    "nama_bps": "POLEWALI MANDAR",
+    "nama_dagri": "KAB. POLEWALI MANDAR",
+    "kode_dagri": "76.04"
+  },
+  {
+    "kode_prov": 76,
+    "kode_bps": "7603",
+    "nama_bps": "MAMASA",
+    "nama_dagri": "KAB. MAMASA",
+    "kode_dagri": "76.03"
+  },
+  {
+    "kode_prov": 76,
+    "kode_bps": "7604",
+    "nama_bps": "MAMUJU",
+    "nama_dagri": "KAB. MAMUJU",
+    "kode_dagri": "76.02"
+  },
+  {
+    "kode_prov": 76,
+    "kode_bps": "7605",
+    "nama_bps": "PASANGKAYU",
+    "nama_dagri": "KAB. PASANGKAYU",
+    "kode_dagri": "76.01"
+  },
+  {
+    "kode_prov": 76,
+    "kode_bps": "7606",
+    "nama_bps": "MAMUJU TENGAH",
+    "nama_dagri": "KAB. MAMUJU TENGAH",
+    "kode_dagri": "76.06"
+  },
+  {
+    "kode_prov": 81,
+    "kode_bps": "8101",
+    "nama_bps": "KEPULAUAN TANIMBAR",
+    "nama_dagri": "KAB. KEPULAUAN TANIMBAR",
+    "kode_dagri": "81.03"
+  },
+  {
+    "kode_prov": 81,
+    "kode_bps": "8102",
+    "nama_bps": "MALUKU TENGGARA",
+    "nama_dagri": "KAB. MALUKU TENGGARA",
+    "kode_dagri": "81.02"
+  },
+  {
+    "kode_prov": 81,
+    "kode_bps": "8103",
+    "nama_bps": "MALUKU TENGAH",
+    "nama_dagri": "KAB. MALUKU TENGAH",
+    "kode_dagri": "81.01"
+  },
+  {
+    "kode_prov": 81,
+    "kode_bps": "8104",
+    "nama_bps": "BURU",
+    "nama_dagri": "KAB. BURU",
+    "kode_dagri": "81.04"
+  },
+  {
+    "kode_prov": 81,
+    "kode_bps": "8105",
+    "nama_bps": "KEPULAUAN ARU",
+    "nama_dagri": "KAB. KEPULAUAN ARU",
+    "kode_dagri": "81.07"
+  },
+  {
+    "kode_prov": 81,
+    "kode_bps": "8106",
+    "nama_bps": "SERAM BAGIAN BARAT",
+    "nama_dagri": "KAB. SERAM BAGIAN BARAT",
+    "kode_dagri": "81.06"
+  },
+  {
+    "kode_prov": 81,
+    "kode_bps": "8107",
+    "nama_bps": "SERAM BAGIAN TIMUR",
+    "nama_dagri": "KAB. SERAM BAGIAN TIMUR",
+    "kode_dagri": "81.05"
+  },
+  {
+    "kode_prov": 81,
+    "kode_bps": "8108",
+    "nama_bps": "MALUKU BARAT DAYA",
+    "nama_dagri": "KAB. MALUKU BARAT DAYA",
+    "kode_dagri": "81.08"
+  },
+  {
+    "kode_prov": 81,
+    "kode_bps": "8109",
+    "nama_bps": "BURU SELATAN",
+    "nama_dagri": "KAB. BURU SELATAN",
+    "kode_dagri": "81.09"
+  },
+  {
+    "kode_prov": 81,
+    "kode_bps": "8171",
+    "nama_bps": "AMBON",
+    "nama_dagri": "KOTA AMBON",
+    "kode_dagri": "81.71"
+  },
+  {
+    "kode_prov": 81,
+    "kode_bps": "8172",
+    "nama_bps": "TUAL",
+    "nama_dagri": "KOTA TUAL",
+    "kode_dagri": "81.72"
+  },
+  {
+    "kode_prov": 82,
+    "kode_bps": "8201",
+    "nama_bps": "HALMAHERA BARAT",
+    "nama_dagri": "KAB. HALMAHERA BARAT",
+    "kode_dagri": "82.01"
+  },
+  {
+    "kode_prov": 82,
+    "kode_bps": "8202",
+    "nama_bps": "HALMAHERA TENGAH",
+    "nama_dagri": "KAB. HALMAHERA TENGAH",
+    "kode_dagri": "82.02"
+  },
+  {
+    "kode_prov": 82,
+    "kode_bps": "8203",
+    "nama_bps": "KEPULAUAN SULA",
+    "nama_dagri": "KAB. KEPULAUAN SULA",
+    "kode_dagri": "82.05"
+  },
+  {
+    "kode_prov": 82,
+    "kode_bps": "8204",
+    "nama_bps": "HALMAHERA SELATAN",
+    "nama_dagri": "KAB. HALMAHERA SELATAN",
+    "kode_dagri": "82.04"
+  },
+  {
+    "kode_prov": 82,
+    "kode_bps": "8205",
+    "nama_bps": "HALMAHERA UTARA",
+    "nama_dagri": "KAB. HALMAHERA UTARA",
+    "kode_dagri": "82.03"
+  },
+  {
+    "kode_prov": 82,
+    "kode_bps": "8206",
+    "nama_bps": "HALMAHERA TIMUR",
+    "nama_dagri": "KAB. HALMAHERA TIMUR",
+    "kode_dagri": "82.06"
+  },
+  {
+    "kode_prov": 82,
+    "kode_bps": "8207",
+    "nama_bps": "PULAU MOROTAI",
+    "nama_dagri": "KAB. PULAU MOROTAI",
+    "kode_dagri": "82.07"
+  },
+  {
+    "kode_prov": 82,
+    "kode_bps": "8208",
+    "nama_bps": "PULAU TALIABU",
+    "nama_dagri": "KAB. PULAU TALIABU",
+    "kode_dagri": "82.08"
+  },
+  {
+    "kode_prov": 82,
+    "kode_bps": "8271",
+    "nama_bps": "TERNATE",
+    "nama_dagri": "KOTA TERNATE",
+    "kode_dagri": "82.71"
+  },
+  {
+    "kode_prov": 82,
+    "kode_bps": "8272",
+    "nama_bps": "TIDORE KEPULAUAN",
+    "nama_dagri": "KOTA TIDORE KEPULAUAN",
+    "kode_dagri": "82.72"
+  },
+  {
+    "kode_prov": 91,
+    "kode_bps": "9101",
+    "nama_bps": "FAKFAK",
+    "nama_dagri": "KAB. FAK FAK",
+    "kode_dagri": "92.03"
+  },
+  {
+    "kode_prov": 91,
+    "kode_bps": "9102",
+    "nama_bps": "KAIMANA",
+    "nama_dagri": "KAB. KAIMANA",
+    "kode_dagri": "92.08"
+  },
+  {
+    "kode_prov": 91,
+    "kode_bps": "9103",
+    "nama_bps": "TELUK WONDAMA",
+    "nama_dagri": "KAB. TELUK WONDAMA",
+    "kode_dagri": "92.07"
+  },
+  {
+    "kode_prov": 91,
+    "kode_bps": "9104",
+    "nama_bps": "TELUK BINTUNI",
+    "nama_dagri": "KAB. TELUK BINTUNI",
+    "kode_dagri": "92.06"
+  },
+  {
+    "kode_prov": 91,
+    "kode_bps": "9105",
+    "nama_bps": "MANOKWARI",
+    "nama_dagri": "KAB. MANOKWARI",
+    "kode_dagri": "92.02"
+  },
+  {
+    "kode_prov": 91,
+    "kode_bps": "9106",
+    "nama_bps": "SORONG SELATAN",
+    "nama_dagri": "KAB. SORONG SELATAN",
+    "kode_dagri": "92.04"
+  },
+  {
+    "kode_prov": 91,
+    "kode_bps": "9107",
+    "nama_bps": "SORONG",
+    "nama_dagri": "KAB. SORONG",
+    "kode_dagri": "92.01"
+  },
+  {
+    "kode_prov": 91,
+    "kode_bps": "9108",
+    "nama_bps": "RAJA AMPAT",
+    "nama_dagri": "KAB. RAJA AMPAT",
+    "kode_dagri": "92.05"
+  },
+  {
+    "kode_prov": 91,
+    "kode_bps": "9109",
+    "nama_bps": "TAMBRAUW",
+    "nama_dagri": "KAB. TAMBRAUW",
+    "kode_dagri": "92.09"
+  },
+  {
+    "kode_prov": 91,
+    "kode_bps": "9110",
+    "nama_bps": "MAYBRAT",
+    "nama_dagri": "KAB. MAYBRAT",
+    "kode_dagri": "92.10"
+  },
+  {
+    "kode_prov": 91,
+    "kode_bps": "9111",
+    "nama_bps": "MANOKWARI SELATAN",
+    "nama_dagri": "KAB. MANOKWARI SELATAN",
+    "kode_dagri": "92.11"
+  },
+  {
+    "kode_prov": 91,
+    "kode_bps": "9112",
+    "nama_bps": "PEGUNUNGAN ARFAK",
+    "nama_dagri": "KAB. PEGUNUNGAN ARFAK",
+    "kode_dagri": "92.12"
+  },
+  {
+    "kode_prov": 91,
+    "kode_bps": "9171",
+    "nama_bps": "SORONG",
+    "nama_dagri": "KOTA SORONG",
+    "kode_dagri": "92.71"
+  }
+]
